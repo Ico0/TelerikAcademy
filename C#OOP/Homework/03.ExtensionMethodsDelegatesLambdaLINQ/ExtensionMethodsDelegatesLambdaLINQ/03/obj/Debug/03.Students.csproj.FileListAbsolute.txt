@@ -1,0 +1,12 @@
+D:\Drugi\TELERIK\C#OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\03\bin\Debug\03.exe.config
+D:\Drugi\TELERIK\C#OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\03\obj\Debug\03.exe
+D:\Drugi\TELERIK\C#OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\03\obj\Debug\03.pdb
+D:\Drugi\TELERIK\C#OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\03\bin\Debug\03.exe
+D:\Drugi\TELERIK\C#OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\03\bin\Debug\03.pdb
+D:\Drugi\TELERIK\C#OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\03\obj\Debug\03.Students.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#OOP\Domashni\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\03\bin\Debug\03.exe.config
+D:\Drugi\TELERIK\C#OOP\Domashni\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\03\obj\Debug\03.exe
+D:\Drugi\TELERIK\C#OOP\Domashni\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\03\obj\Debug\03.pdb
+D:\Drugi\TELERIK\C#OOP\Domashni\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\03\bin\Debug\03.exe
+D:\Drugi\TELERIK\C#OOP\Domashni\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\03\bin\Debug\03.pdb
+D:\Drugi\TELERIK\C#OOP\Domashni\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\03\obj\Debug\03.Students.csprojResolveAssemblyReference.cache

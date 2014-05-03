@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\7.IsPrime\bin\Debug\7.IsPrime.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\7.IsPrime\bin\Debug\7.IsPrime.exe
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\7.IsPrime\bin\Debug\7.IsPrime.pdb
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\7.IsPrime\obj\Debug\7.IsPrime.exe
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\7.IsPrime\obj\Debug\7.IsPrime.pdb

@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\09.DeleteOdd\bin\Debug\09.DeleteOdd.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\09.DeleteOdd\bin\Debug\09.DeleteOdd.exe
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\09.DeleteOdd\bin\Debug\09.DeleteOdd.pdb
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\09.DeleteOdd\obj\Debug\09.DeleteOdd.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\09.DeleteOdd\obj\Debug\09.DeleteOdd.exe
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\09.DeleteOdd\obj\Debug\09.DeleteOdd.pdb

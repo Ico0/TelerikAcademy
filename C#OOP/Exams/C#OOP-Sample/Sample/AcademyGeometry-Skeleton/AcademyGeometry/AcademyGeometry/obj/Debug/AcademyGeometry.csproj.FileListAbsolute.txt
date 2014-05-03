@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#OOP\Kontrolni\Sample\Sample\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.exe.config
+D:\Drugi\TELERIK\C#OOP\Kontrolni\Sample\Sample\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.exe
+D:\Drugi\TELERIK\C#OOP\Kontrolni\Sample\Sample\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.pdb
+D:\Drugi\TELERIK\C#OOP\Kontrolni\Sample\Sample\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#OOP\Kontrolni\Sample\Sample\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.exe
+D:\Drugi\TELERIK\C#OOP\Kontrolni\Sample\Sample\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.pdb

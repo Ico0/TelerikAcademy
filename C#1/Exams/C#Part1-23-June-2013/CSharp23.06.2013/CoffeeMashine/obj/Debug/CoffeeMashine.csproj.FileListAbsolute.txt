@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp23.06.2013\CSharp23.06.2013\CoffeeMashine\bin\Debug\CoffeeMashine.exe.config
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp23.06.2013\CSharp23.06.2013\CoffeeMashine\bin\Debug\CoffeeMashine.exe
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp23.06.2013\CSharp23.06.2013\CoffeeMashine\bin\Debug\CoffeeMashine.pdb
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp23.06.2013\CSharp23.06.2013\CoffeeMashine\obj\Debug\CoffeeMashine.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp23.06.2013\CSharp23.06.2013\CoffeeMashine\obj\Debug\CoffeeMashine.exe
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp23.06.2013\CSharp23.06.2013\CoffeeMashine\obj\Debug\CoffeeMashine.pdb

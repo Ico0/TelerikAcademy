@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\19.Permutation\bin\Debug\19.Permutation.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\19.Permutation\bin\Debug\19.Permutation.exe
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\19.Permutation\bin\Debug\19.Permutation.pdb
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\19.Permutation\obj\Debug\19.Permutation.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\19.Permutation\obj\Debug\19.Permutation.exe
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\19.Permutation\obj\Debug\19.Permutation.pdb

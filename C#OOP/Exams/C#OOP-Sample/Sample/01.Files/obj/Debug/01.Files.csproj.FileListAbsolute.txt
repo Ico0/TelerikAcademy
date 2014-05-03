@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#OOP\Kontrolni\Sample\Sample\01.Files\bin\Debug\01.Files.exe.config
+D:\Drugi\TELERIK\C#OOP\Kontrolni\Sample\Sample\01.Files\obj\Debug\01.Files.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#OOP\Kontrolni\Sample\Sample\01.Files\bin\Debug\01.Files.exe
+D:\Drugi\TELERIK\C#OOP\Kontrolni\Sample\Sample\01.Files\bin\Debug\01.Files.pdb
+D:\Drugi\TELERIK\C#OOP\Kontrolni\Sample\Sample\01.Files\obj\Debug\01.Files.exe
+D:\Drugi\TELERIK\C#OOP\Kontrolni\Sample\Sample\01.Files\obj\Debug\01.Files.pdb

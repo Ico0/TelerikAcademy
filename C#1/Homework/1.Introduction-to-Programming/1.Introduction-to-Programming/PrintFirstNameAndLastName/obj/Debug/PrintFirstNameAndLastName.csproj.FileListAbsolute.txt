@@ -1,0 +1,7 @@
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\Introduction-to-Programming\PrintFirstNameAndLastName\bin\Debug\PrintFirstNameAndLastName.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\Introduction-to-Programming\PrintFirstNameAndLastName\bin\Debug\PrintFirstNameAndLastName.exe
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\Introduction-to-Programming\PrintFirstNameAndLastName\bin\Debug\PrintFirstNameAndLastName.pdb
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\Introduction-to-Programming\PrintFirstNameAndLastName\obj\Debug\PrintFirstNameAndLastName.exe
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\Introduction-to-Programming\PrintFirstNameAndLastName\obj\Debug\PrintFirstNameAndLastName.pdb
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\PrintFirstNameAndLastName\obj\Debug\PrintFirstNameAndLastName.exe
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\PrintFirstNameAndLastName\obj\Debug\PrintFirstNameAndLastName.pdb

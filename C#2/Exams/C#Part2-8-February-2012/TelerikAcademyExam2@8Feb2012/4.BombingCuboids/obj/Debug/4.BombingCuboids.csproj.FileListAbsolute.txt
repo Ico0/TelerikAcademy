@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@8Feb2012\TelerikAcademyExam2@8Feb2012\4.BombingCuboids\bin\Debug\4.BombingCuboids.exe.config
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@8Feb2012\TelerikAcademyExam2@8Feb2012\4.BombingCuboids\bin\Debug\4.BombingCuboids.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@8Feb2012\TelerikAcademyExam2@8Feb2012\4.BombingCuboids\bin\Debug\4.BombingCuboids.pdb
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@8Feb2012\TelerikAcademyExam2@8Feb2012\4.BombingCuboids\obj\Debug\4.BombingCuboids.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@8Feb2012\TelerikAcademyExam2@8Feb2012\4.BombingCuboids\obj\Debug\4.BombingCuboids.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@8Feb2012\TelerikAcademyExam2@8Feb2012\4.BombingCuboids\obj\Debug\4.BombingCuboids.pdb

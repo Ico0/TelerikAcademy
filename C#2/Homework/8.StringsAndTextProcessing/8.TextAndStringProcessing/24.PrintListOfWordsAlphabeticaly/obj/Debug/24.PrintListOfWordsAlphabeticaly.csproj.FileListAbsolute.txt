@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\24.PrintListOfWordsAlphabeticaly\bin\Debug\24.PrintListOfWordsAlphabeticaly.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\24.PrintListOfWordsAlphabeticaly\bin\Debug\24.PrintListOfWordsAlphabeticaly.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\24.PrintListOfWordsAlphabeticaly\bin\Debug\24.PrintListOfWordsAlphabeticaly.pdb
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\24.PrintListOfWordsAlphabeticaly\obj\Debug\24.PrintListOfWordsAlphabeticaly.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\24.PrintListOfWordsAlphabeticaly\obj\Debug\24.PrintListOfWordsAlphabeticaly.pdb
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\24.PrintListOfWordsAlphabeticaly\obj\Debug\24.PrintListOfWordsAlphabeticaly.csprojResolveAssemblyReference.cache

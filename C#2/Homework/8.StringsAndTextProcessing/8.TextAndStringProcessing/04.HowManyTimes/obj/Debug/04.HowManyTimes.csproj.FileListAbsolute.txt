@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\04.HowManyTimes\bin\Debug\04.HowManyTimes.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\04.HowManyTimes\bin\Debug\04.HowManyTimes.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\04.HowManyTimes\bin\Debug\04.HowManyTimes.pdb
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\04.HowManyTimes\obj\Debug\04.HowManyTimes.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\04.HowManyTimes\obj\Debug\04.HowManyTimes.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\04.HowManyTimes\obj\Debug\04.HowManyTimes.pdb

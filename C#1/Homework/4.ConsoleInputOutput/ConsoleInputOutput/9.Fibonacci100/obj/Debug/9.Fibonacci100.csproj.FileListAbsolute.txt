@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\9.Fibonacci100\bin\Debug\9.Fibonacci100.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\9.Fibonacci100\bin\Debug\9.Fibonacci100.exe
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\9.Fibonacci100\bin\Debug\9.Fibonacci100.pdb
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\9.Fibonacci100\obj\Debug\9.Fibonacci100.exe
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\9.Fibonacci100\obj\Debug\9.Fibonacci100.pdb

@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\05.FindMaxSum\bin\Debug\05.FindMaxSum.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\05.FindMaxSum\bin\Debug\05.FindMaxSum.exe
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\05.FindMaxSum\bin\Debug\05.FindMaxSum.pdb
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\05.FindMaxSum\obj\Debug\05.FindMaxSum.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\05.FindMaxSum\obj\Debug\05.FindMaxSum.exe
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\05.FindMaxSum\obj\Debug\05.FindMaxSum.pdb

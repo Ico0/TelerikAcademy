@@ -1,0 +1,9 @@
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@6Feb2012\2012-2013@4Feb2013\1.KaspichanNumbers\bin\Debug\1.KaspichanNumbers.exe.config
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@6Feb2012\2012-2013@4Feb2013\1.KaspichanNumbers\bin\Debug\1.KaspichanNumbers.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@6Feb2012\2012-2013@4Feb2013\1.KaspichanNumbers\bin\Debug\1.KaspichanNumbers.pdb
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@6Feb2012\2012-2013@4Feb2013\1.KaspichanNumbers\obj\Debug\1.KaspichanNumbers.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@6Feb2012\2012-2013@4Feb2013\1.KaspichanNumbers\obj\Debug\1.KaspichanNumbers.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@6Feb2012\2012-2013@4Feb2013\1.KaspichanNumbers\obj\Debug\1.KaspichanNumbers.pdb
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@4Feb2013\2012-2013@4Feb2013\1.KaspichanNumbers\bin\Debug\1.KaspichanNumbers.exe.config
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@4Feb2013\2012-2013@4Feb2013\1.KaspichanNumbers\obj\Debug\1.KaspichanNumbers.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@4Feb2013\2012-2013@4Feb2013\1.KaspichanNumbers\obj\Debug\1.KaspichanNumbers.pdb

@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\02.PrintRandomValues\bin\Debug\02.PrintRandomValues.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\02.PrintRandomValues\bin\Debug\02.PrintRandomValues.exe
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\02.PrintRandomValues\bin\Debug\02.PrintRandomValues.pdb
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\02.PrintRandomValues\obj\Debug\02.PrintRandomValues.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\02.PrintRandomValues\obj\Debug\02.PrintRandomValues.exe
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\02.PrintRandomValues\obj\Debug\02.PrintRandomValues.pdb

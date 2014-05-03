@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\12.ChangeValueOfBit\bin\Debug\12.ChangeValueOfBit.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\12.ChangeValueOfBit\bin\Debug\12.ChangeValueOfBit.exe
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\12.ChangeValueOfBit\bin\Debug\12.ChangeValueOfBit.pdb
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\12.ChangeValueOfBit\obj\Debug\12.ChangeValueOfBit.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\12.ChangeValueOfBit\obj\Debug\12.ChangeValueOfBit.exe
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\12.ChangeValueOfBit\obj\Debug\12.ChangeValueOfBit.pdb

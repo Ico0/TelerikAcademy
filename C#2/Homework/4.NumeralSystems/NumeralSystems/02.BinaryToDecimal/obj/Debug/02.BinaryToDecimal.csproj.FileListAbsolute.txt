@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#2\Domashno\4.NumeralSystems\NumeralSystems\02.BinaryToDecimal\bin\Debug\02.BinaryToDecimal.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\4.NumeralSystems\NumeralSystems\02.BinaryToDecimal\bin\Debug\02.BinaryToDecimal.exe
+D:\Drugi\TELERIK\C#2\Domashno\4.NumeralSystems\NumeralSystems\02.BinaryToDecimal\bin\Debug\02.BinaryToDecimal.pdb
+D:\Drugi\TELERIK\C#2\Domashno\4.NumeralSystems\NumeralSystems\02.BinaryToDecimal\obj\Debug\02.BinaryToDecimal.exe
+D:\Drugi\TELERIK\C#2\Domashno\4.NumeralSystems\NumeralSystems\02.BinaryToDecimal\obj\Debug\02.BinaryToDecimal.pdb

@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#OOP\CommonTypeSystem\CommonTypeSystem\03.BitArray64\bin\Debug\03.BitArray64.exe.config
+D:\Drugi\TELERIK\C#OOP\CommonTypeSystem\CommonTypeSystem\03.BitArray64\obj\Debug\03.BitArray64.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#OOP\CommonTypeSystem\CommonTypeSystem\03.BitArray64\bin\Debug\03.BitArray64.exe
+D:\Drugi\TELERIK\C#OOP\CommonTypeSystem\CommonTypeSystem\03.BitArray64\bin\Debug\03.BitArray64.pdb
+D:\Drugi\TELERIK\C#OOP\CommonTypeSystem\CommonTypeSystem\03.BitArray64\obj\Debug\03.BitArray64.exe
+D:\Drugi\TELERIK\C#OOP\CommonTypeSystem\CommonTypeSystem\03.BitArray64\obj\Debug\03.BitArray64.pdb

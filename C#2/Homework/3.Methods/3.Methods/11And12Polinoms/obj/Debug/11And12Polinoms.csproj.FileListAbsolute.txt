@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\11And12Polinoms\bin\Debug\11And12Polinoms.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\11And12Polinoms\bin\Debug\11And12Polinoms.exe
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\11And12Polinoms\bin\Debug\11And12Polinoms.pdb
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\11And12Polinoms\obj\Debug\11And12Polinoms.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\11And12Polinoms\obj\Debug\11And12Polinoms.exe
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\11And12Polinoms\obj\Debug\11And12Polinoms.pdb

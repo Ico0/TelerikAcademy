@@ -1,0 +1,9 @@
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 29 Dec 2012\Exam29Dec2012\TripleRotationofDigits\bin\Debug\TripleRotationofDigits.exe.config
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 29 Dec 2012\Exam29Dec2012\TripleRotationofDigits\bin\Debug\TripleRotationofDigits.exe
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 29 Dec 2012\Exam29Dec2012\TripleRotationofDigits\bin\Debug\TripleRotationofDigits.pdb
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 29 Dec 2012\Exam29Dec2012\TripleRotationofDigits\obj\Debug\TripleRotationofDigits.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 29 Dec 2012\Exam29Dec2012\TripleRotationofDigits\obj\Debug\TripleRotationofDigits.exe
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 29 Dec 2012\Exam29Dec2012\TripleRotationofDigits\obj\Debug\TripleRotationofDigits.pdb
+D:\Drugi\TELERIK\C#1\Kontrolni\Practice Telerik Academy Exam 1 @ 29 Dec 2012\Exam29Dec2012\TripleRotationofDigits\bin\Debug\TripleRotationofDigits.exe.config
+D:\Drugi\TELERIK\C#1\Kontrolni\Practice Telerik Academy Exam 1 @ 29 Dec 2012\Exam29Dec2012\TripleRotationofDigits\obj\Debug\TripleRotationofDigits.exe
+D:\Drugi\TELERIK\C#1\Kontrolni\Practice Telerik Academy Exam 1 @ 29 Dec 2012\Exam29Dec2012\TripleRotationofDigits\obj\Debug\TripleRotationofDigits.pdb

@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp23.06.2013\CSharp23.06.2013\BullsAndCows\bin\Debug\BullsAndCows.exe.config
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp23.06.2013\CSharp23.06.2013\BullsAndCows\obj\Debug\BullsAndCows.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp23.06.2013\CSharp23.06.2013\BullsAndCows\bin\Debug\BullsAndCows.exe
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp23.06.2013\CSharp23.06.2013\BullsAndCows\bin\Debug\BullsAndCows.pdb
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp23.06.2013\CSharp23.06.2013\BullsAndCows\obj\Debug\BullsAndCows.exe
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp23.06.2013\CSharp23.06.2013\BullsAndCows\obj\Debug\BullsAndCows.pdb

@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\05.WorkingDays\bin\Debug\05.WorkingDays.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\05.WorkingDays\obj\Debug\05.WorkingDays.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\05.WorkingDays\bin\Debug\05.WorkingDays.exe
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\05.WorkingDays\bin\Debug\05.WorkingDays.pdb
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\05.WorkingDays\obj\Debug\05.WorkingDays.exe
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\05.WorkingDays\obj\Debug\05.WorkingDays.pdb

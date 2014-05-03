@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\20.Variation\bin\Debug\20.Variation.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\20.Variation\obj\Debug\20.Variation.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\20.Variation\bin\Debug\20.Variation.exe
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\20.Variation\bin\Debug\20.Variation.pdb
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\20.Variation\obj\Debug\20.Variation.exe
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\20.Variation\obj\Debug\20.Variation.pdb

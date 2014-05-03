@@ -1,0 +1,9 @@
+D:\Drugi\TELERIK\C#OOP\ObjectOrientedProgarammingPriciples1\ObjectOrientedProgarammingPriciples1\02.Human\bin\Debug\02.Human.exe.config
+D:\Drugi\TELERIK\C#OOP\ObjectOrientedProgarammingPriciples1\ObjectOrientedProgarammingPriciples1\02.Human\bin\Debug\02.Human.exe
+D:\Drugi\TELERIK\C#OOP\ObjectOrientedProgarammingPriciples1\ObjectOrientedProgarammingPriciples1\02.Human\bin\Debug\02.Human.pdb
+D:\Drugi\TELERIK\C#OOP\ObjectOrientedProgarammingPriciples1\ObjectOrientedProgarammingPriciples1\02.Human\obj\Debug\02.Human.exe
+D:\Drugi\TELERIK\C#OOP\ObjectOrientedProgarammingPriciples1\ObjectOrientedProgarammingPriciples1\02.Human\obj\Debug\02.Human.pdb
+D:\Drugi\TELERIK\C#OOP\ObjectOrientedProgarammingPriciples1\ObjectOrientedProgarammingPriciples1\02.Human\obj\Debug\02.Human.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#OOP\Domashni\ObjectOrientedProgarammingPriciples1\ObjectOrientedProgarammingPriciples1\02.Human\bin\Debug\02.Human.exe.config
+D:\Drugi\TELERIK\C#OOP\Domashni\ObjectOrientedProgarammingPriciples1\ObjectOrientedProgarammingPriciples1\02.Human\obj\Debug\02.Human.exe
+D:\Drugi\TELERIK\C#OOP\Domashni\ObjectOrientedProgarammingPriciples1\ObjectOrientedProgarammingPriciples1\02.Human\obj\Debug\02.Human.pdb

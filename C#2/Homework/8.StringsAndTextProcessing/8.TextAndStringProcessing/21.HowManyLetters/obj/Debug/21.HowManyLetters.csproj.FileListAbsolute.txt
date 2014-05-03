@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\21.HowManyLetters\bin\Debug\21.HowManyLetters.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\21.HowManyLetters\bin\Debug\21.HowManyLetters.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\21.HowManyLetters\bin\Debug\21.HowManyLetters.pdb
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\21.HowManyLetters\obj\Debug\21.HowManyLetters.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\21.HowManyLetters\obj\Debug\21.HowManyLetters.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\21.HowManyLetters\obj\Debug\21.HowManyLetters.pdb

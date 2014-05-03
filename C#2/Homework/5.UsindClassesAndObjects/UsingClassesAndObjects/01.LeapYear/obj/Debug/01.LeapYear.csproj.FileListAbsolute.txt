@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\01.LeapYear\bin\Debug\01.LeapYear.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\01.LeapYear\bin\Debug\01.LeapYear.exe
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\01.LeapYear\bin\Debug\01.LeapYear.pdb
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\01.LeapYear\obj\Debug\01.LeapYear.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\01.LeapYear\obj\Debug\01.LeapYear.exe
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\01.LeapYear\obj\Debug\01.LeapYear.pdb

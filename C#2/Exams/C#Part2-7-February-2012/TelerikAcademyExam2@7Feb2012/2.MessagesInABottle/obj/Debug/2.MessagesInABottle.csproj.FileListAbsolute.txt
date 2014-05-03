@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@7Feb2012\TelerikAcademyExam2@7Feb2012\2.MessagesInABottle\bin\Debug\2.MessagesInABottle.exe.config
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@7Feb2012\TelerikAcademyExam2@7Feb2012\2.MessagesInABottle\bin\Debug\2.MessagesInABottle.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@7Feb2012\TelerikAcademyExam2@7Feb2012\2.MessagesInABottle\bin\Debug\2.MessagesInABottle.pdb
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@7Feb2012\TelerikAcademyExam2@7Feb2012\2.MessagesInABottle\obj\Debug\2.MessagesInABottle.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@7Feb2012\TelerikAcademyExam2@7Feb2012\2.MessagesInABottle\obj\Debug\2.MessagesInABottle.pdb

@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#2\Domashno\4.NumeralSystems\NumeralSystems\08.SignedInt16\bin\Debug\08.SignedInt16.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\4.NumeralSystems\NumeralSystems\08.SignedInt16\bin\Debug\08.SignedInt16.exe
+D:\Drugi\TELERIK\C#2\Domashno\4.NumeralSystems\NumeralSystems\08.SignedInt16\bin\Debug\08.SignedInt16.pdb
+D:\Drugi\TELERIK\C#2\Domashno\4.NumeralSystems\NumeralSystems\08.SignedInt16\obj\Debug\08.SignedInt16.exe
+D:\Drugi\TELERIK\C#2\Domashno\4.NumeralSystems\NumeralSystems\08.SignedInt16\obj\Debug\08.SignedInt16.pdb

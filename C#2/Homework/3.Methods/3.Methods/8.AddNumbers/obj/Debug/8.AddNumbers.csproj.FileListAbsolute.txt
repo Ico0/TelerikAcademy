@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\8.AddNumbers\bin\Debug\8.AddNumbers.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\8.AddNumbers\obj\Debug\8.AddNumbers.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\8.AddNumbers\bin\Debug\8.AddNumbers.exe
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\8.AddNumbers\bin\Debug\8.AddNumbers.pdb
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\8.AddNumbers\obj\Debug\8.AddNumbers.exe
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\8.AddNumbers\obj\Debug\8.AddNumbers.pdb

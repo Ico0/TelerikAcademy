@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\5.SortStrings\bin\Debug\5.SortStrings.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\5.SortStrings\bin\Debug\5.SortStrings.exe
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\5.SortStrings\bin\Debug\5.SortStrings.pdb
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\5.SortStrings\obj\Debug\5.SortStrings.exe
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\5.SortStrings\obj\Debug\5.SortStrings.pdb

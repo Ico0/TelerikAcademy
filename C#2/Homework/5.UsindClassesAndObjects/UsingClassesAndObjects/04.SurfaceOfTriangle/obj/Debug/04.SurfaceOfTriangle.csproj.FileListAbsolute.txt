@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\04.SurfaceOfTriangle\bin\Debug\04.SurfaceOfTriangle.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\04.SurfaceOfTriangle\bin\Debug\04.SurfaceOfTriangle.exe
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\04.SurfaceOfTriangle\bin\Debug\04.SurfaceOfTriangle.pdb
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\04.SurfaceOfTriangle\obj\Debug\04.SurfaceOfTriangle.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\04.SurfaceOfTriangle\obj\Debug\04.SurfaceOfTriangle.exe
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\04.SurfaceOfTriangle\obj\Debug\04.SurfaceOfTriangle.pdb

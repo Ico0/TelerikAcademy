@@ -1,0 +1,15 @@
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\Company\bin\Debug\Company.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\Company\bin\Debug\Company.exe
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\Company\bin\Debug\Company.pdb
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\Company\obj\Debug\3.Company.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\Company\obj\Debug\Company.exe
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\Company\obj\Debug\Company.pdb
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\1.Company\bin\Debug\Company.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\1.Company\obj\Debug\Company.exe
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\1.Company\obj\Debug\Company.pdb
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\3.Company\bin\Debug\Company.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\3.Company\obj\Debug\Company.exe
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\3.Company\obj\Debug\Company.pdb
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\3.Company\bin\Debug\Company.exe
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\3.Company\bin\Debug\Company.pdb
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\3.Company\obj\Debug\3.Company.csprojResolveAssemblyReference.cache

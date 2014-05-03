@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\1.OddOrEven\bin\Debug\1.OddOrEven.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\1.OddOrEven\bin\Debug\1.OddOrEven.exe
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\1.OddOrEven\bin\Debug\1.OddOrEven.pdb
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\1.OddOrEven\obj\Debug\1.OddOrEven.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\1.OddOrEven\obj\Debug\1.OddOrEven.exe
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\1.OddOrEven\obj\Debug\1.OddOrEven.pdb

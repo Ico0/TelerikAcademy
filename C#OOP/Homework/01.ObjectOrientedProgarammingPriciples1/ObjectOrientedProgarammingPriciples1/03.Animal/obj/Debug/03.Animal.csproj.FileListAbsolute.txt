@@ -1,0 +1,9 @@
+D:\Drugi\TELERIK\C#OOP\ObjectOrientedProgarammingPriciples1\ObjectOrientedProgarammingPriciples1\03.Animal\bin\Debug\03.Animal.exe.config
+D:\Drugi\TELERIK\C#OOP\ObjectOrientedProgarammingPriciples1\ObjectOrientedProgarammingPriciples1\03.Animal\obj\Debug\03.Animal.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#OOP\ObjectOrientedProgarammingPriciples1\ObjectOrientedProgarammingPriciples1\03.Animal\bin\Debug\03.Animal.exe
+D:\Drugi\TELERIK\C#OOP\ObjectOrientedProgarammingPriciples1\ObjectOrientedProgarammingPriciples1\03.Animal\bin\Debug\03.Animal.pdb
+D:\Drugi\TELERIK\C#OOP\ObjectOrientedProgarammingPriciples1\ObjectOrientedProgarammingPriciples1\03.Animal\obj\Debug\03.Animal.exe
+D:\Drugi\TELERIK\C#OOP\ObjectOrientedProgarammingPriciples1\ObjectOrientedProgarammingPriciples1\03.Animal\obj\Debug\03.Animal.pdb
+D:\Drugi\TELERIK\C#OOP\Domashni\ObjectOrientedProgarammingPriciples1\ObjectOrientedProgarammingPriciples1\03.Animal\bin\Debug\03.Animal.exe.config
+D:\Drugi\TELERIK\C#OOP\Domashni\ObjectOrientedProgarammingPriciples1\ObjectOrientedProgarammingPriciples1\03.Animal\obj\Debug\03.Animal.exe
+D:\Drugi\TELERIK\C#OOP\Domashni\ObjectOrientedProgarammingPriciples1\ObjectOrientedProgarammingPriciples1\03.Animal\obj\Debug\03.Animal.pdb

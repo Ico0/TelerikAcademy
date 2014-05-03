@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\3.CharArray\bin\Debug\3.CharArray.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\3.CharArray\bin\Debug\3.CharArray.exe
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\3.CharArray\bin\Debug\3.CharArray.pdb
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\3.CharArray\obj\Debug\3.CharArray.exe
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\3.CharArray\obj\Debug\3.CharArray.pdb

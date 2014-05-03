@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\12.EndingZeros\bin\Debug\12.EndingZeros.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\12.EndingZeros\bin\Debug\12.EndingZeros.exe
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\12.EndingZeros\bin\Debug\12.EndingZeros.pdb
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\12.EndingZeros\obj\Debug\12.EndingZeros.exe
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\12.EndingZeros\obj\Debug\12.EndingZeros.pdb
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\12.EndingZeros\obj\Debug\12.EndingZeros.csprojResolveAssemblyReference.cache

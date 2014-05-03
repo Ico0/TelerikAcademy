@@ -1,0 +1,9 @@
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\7\bin\Debug\7.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\7\obj\Debug\7.exe
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\7\obj\Debug\7.pdb
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\7.GetNsumN\bin\Debug\7.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\7.GetNsumN\obj\Debug\7.exe
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\7.GetNsumN\obj\Debug\7.pdb
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\7.GetNsumN\bin\Debug\7.exe
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\7.GetNsumN\bin\Debug\7.pdb
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\7.GetNsumN\obj\Debug\7.GetNsumN.csprojResolveAssemblyReference.cache

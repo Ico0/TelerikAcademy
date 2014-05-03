@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\6.QuadraticEquation\bin\Debug\6.QuadraticEquation.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\6.QuadraticEquation\bin\Debug\6.QuadraticEquation.exe
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\6.QuadraticEquation\bin\Debug\6.QuadraticEquation.pdb
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\6.QuadraticEquation\obj\Debug\6.QuadraticEquation.exe
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\6.QuadraticEquation\obj\Debug\6.QuadraticEquation.pdb

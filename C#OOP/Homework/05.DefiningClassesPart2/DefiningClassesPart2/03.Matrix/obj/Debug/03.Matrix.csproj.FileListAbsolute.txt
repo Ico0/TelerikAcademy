@@ -1,0 +1,9 @@
+D:\Drugi\TELERIK\C#OOP\DefiningClassesPart2\DefiningClassesPart2\03.Matrix\bin\Debug\03.Matrix.exe.config
+D:\Drugi\TELERIK\C#OOP\DefiningClassesPart2\DefiningClassesPart2\03.Matrix\obj\Debug\03.Matrix.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#OOP\DefiningClassesPart2\DefiningClassesPart2\03.Matrix\bin\Debug\03.Matrix.exe
+D:\Drugi\TELERIK\C#OOP\DefiningClassesPart2\DefiningClassesPart2\03.Matrix\bin\Debug\03.Matrix.pdb
+D:\Drugi\TELERIK\C#OOP\DefiningClassesPart2\DefiningClassesPart2\03.Matrix\obj\Debug\03.Matrix.exe
+D:\Drugi\TELERIK\C#OOP\DefiningClassesPart2\DefiningClassesPart2\03.Matrix\obj\Debug\03.Matrix.pdb
+D:\Drugi\TELERIK\C#OOP\Domashni\DefiningClassesPart2\DefiningClassesPart2\03.Matrix\bin\Debug\03.Matrix.exe.config
+D:\Drugi\TELERIK\C#OOP\Domashni\DefiningClassesPart2\DefiningClassesPart2\03.Matrix\obj\Debug\03.Matrix.exe
+D:\Drugi\TELERIK\C#OOP\Domashni\DefiningClassesPart2\DefiningClassesPart2\03.Matrix\obj\Debug\03.Matrix.pdb

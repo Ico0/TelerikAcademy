@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\12.Word\bin\Debug\12.Word.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\12.Word\bin\Debug\12.Word.exe
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\12.Word\bin\Debug\12.Word.pdb
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\12.Word\obj\Debug\12.Word.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\12.Word\obj\Debug\12.Word.exe
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\12.Word\obj\Debug\12.Word.pdb

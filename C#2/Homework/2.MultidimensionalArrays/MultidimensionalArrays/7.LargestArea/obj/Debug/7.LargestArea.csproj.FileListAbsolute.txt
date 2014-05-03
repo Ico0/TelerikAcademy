@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\7.LargestArea\bin\Debug\7.LargestArea.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\7.LargestArea\bin\Debug\7.LargestArea.exe
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\7.LargestArea\bin\Debug\7.LargestArea.pdb
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\7.LargestArea\obj\Debug\7.LargestArea.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\7.LargestArea\obj\Debug\7.LargestArea.exe
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\7.LargestArea\obj\Debug\7.LargestArea.pdb

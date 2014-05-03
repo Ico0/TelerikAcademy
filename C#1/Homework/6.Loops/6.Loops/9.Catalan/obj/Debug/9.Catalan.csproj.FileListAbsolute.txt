@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\9.Catalan\bin\Debug\9.Catalan.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\9.Catalan\bin\Debug\9.Catalan.exe
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\9.Catalan\bin\Debug\9.Catalan.pdb
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\9.Catalan\obj\Debug\9.Catalan.exe
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\9.Catalan\obj\Debug\9.Catalan.pdb

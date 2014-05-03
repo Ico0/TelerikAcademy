@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\11.Matrix\bin\Debug\11.Matrix.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\11.Matrix\bin\Debug\11.Matrix.exe
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\11.Matrix\bin\Debug\11.Matrix.pdb
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\11.Matrix\obj\Debug\11.Matrix.exe
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\11.Matrix\obj\Debug\11.Matrix.pdb
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\11.Matrix\obj\Debug\11.Matrix.csprojResolveAssemblyReference.cache

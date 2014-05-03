@@ -1,0 +1,10 @@
+294#Thursday#21:00
+14
+11#32
+3#21:00#Thursday#28
+1#21:00#Thursday#7
+3#19:00#Thursday#25
+10#19:00#Thursday#85
+2#19:00#Friday#18
+4#19:00#Monday#32
+4#10:59#Sunday#34

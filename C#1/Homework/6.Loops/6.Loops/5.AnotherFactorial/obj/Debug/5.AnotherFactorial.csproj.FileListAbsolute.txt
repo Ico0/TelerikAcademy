@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\5.AnotherFactorial\bin\Debug\5.AnotherFactorial.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\5.AnotherFactorial\bin\Debug\5.AnotherFactorial.exe
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\5.AnotherFactorial\bin\Debug\5.AnotherFactorial.pdb
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\5.AnotherFactorial\obj\Debug\5.AnotherFactorial.exe
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\5.AnotherFactorial\obj\Debug\5.AnotherFactorial.pdb

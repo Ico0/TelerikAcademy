@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\3.LastDigitToString\bin\Debug\3.LastDigitToString.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\3.LastDigitToString\bin\Debug\3.LastDigitToString.exe
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\3.LastDigitToString\bin\Debug\3.LastDigitToString.pdb
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\3.LastDigitToString\obj\Debug\3.LastDigitToString.exe
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\3.LastDigitToString\obj\Debug\3.LastDigitToString.pdb

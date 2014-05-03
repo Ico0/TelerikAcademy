@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\2.MaxumalSumInRectangle\bin\Debug\2.MaxumalSumInRectangle.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\2.MaxumalSumInRectangle\bin\Debug\2.MaxumalSumInRectangle.exe
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\2.MaxumalSumInRectangle\bin\Debug\2.MaxumalSumInRectangle.pdb
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\2.MaxumalSumInRectangle\obj\Debug\2.MaxumalSumInRectangle.exe
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\2.MaxumalSumInRectangle\obj\Debug\2.MaxumalSumInRectangle.pdb

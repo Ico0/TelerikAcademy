@@ -1,0 +1,6 @@
+C:\Users\Hristo\Desktop\Izpit\Izpit\bin\Izpit.dll.config
+C:\Users\Hristo\Desktop\Izpit\Izpit\bin\Izpit.dll
+C:\Users\Hristo\Desktop\Izpit\Izpit\bin\Izpit.pdb
+C:\Users\Hristo\Desktop\Izpit\Izpit\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Desktop\Izpit\Izpit\obj\Debug\Izpit.dll
+C:\Users\Hristo\Desktop\Izpit\Izpit\obj\Debug\Izpit.pdb

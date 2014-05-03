@@ -1,0 +1,9 @@
+D:\Drugi\TELERIK\C#OOP\DefiningClassesPart2\DefiningClassesPart2\01.Point3D\bin\Debug\01.Point3D.exe.config
+D:\Drugi\TELERIK\C#OOP\DefiningClassesPart2\DefiningClassesPart2\01.Point3D\bin\Debug\01.Point3D.exe
+D:\Drugi\TELERIK\C#OOP\DefiningClassesPart2\DefiningClassesPart2\01.Point3D\bin\Debug\01.Point3D.pdb
+D:\Drugi\TELERIK\C#OOP\DefiningClassesPart2\DefiningClassesPart2\01.Point3D\obj\Debug\01.Point3D.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#OOP\DefiningClassesPart2\DefiningClassesPart2\01.Point3D\obj\Debug\01.Point3D.exe
+D:\Drugi\TELERIK\C#OOP\DefiningClassesPart2\DefiningClassesPart2\01.Point3D\obj\Debug\01.Point3D.pdb
+D:\Drugi\TELERIK\C#OOP\Domashni\DefiningClassesPart2\DefiningClassesPart2\01.Point3D\bin\Debug\01.Point3D.exe.config
+D:\Drugi\TELERIK\C#OOP\Domashni\DefiningClassesPart2\DefiningClassesPart2\01.Point3D\obj\Debug\01.Point3D.exe
+D:\Drugi\TELERIK\C#OOP\Domashni\DefiningClassesPart2\DefiningClassesPart2\01.Point3D\obj\Debug\01.Point3D.pdb

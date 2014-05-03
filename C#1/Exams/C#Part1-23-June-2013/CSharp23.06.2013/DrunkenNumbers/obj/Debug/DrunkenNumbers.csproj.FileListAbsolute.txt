@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp23.06.2013\CSharp23.06.2013\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe.config
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp23.06.2013\CSharp23.06.2013\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp23.06.2013\CSharp23.06.2013\DrunkenNumbers\bin\Debug\DrunkenNumbers.pdb
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp23.06.2013\CSharp23.06.2013\DrunkenNumbers\obj\Debug\DrunkenNumbers.exe
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp23.06.2013\CSharp23.06.2013\DrunkenNumbers\obj\Debug\DrunkenNumbers.pdb
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp23.06.2013\CSharp23.06.2013\DrunkenNumbers\obj\Debug\DrunkenNumbers.csprojResolveAssemblyReference.cache

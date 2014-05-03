@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\10.CalculateSum\bin\Debug\10.CalculateSum.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\10.CalculateSum\bin\Debug\10.CalculateSum.exe
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\10.CalculateSum\bin\Debug\10.CalculateSum.pdb
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\10.CalculateSum\obj\Debug\10.CalculateSum.exe
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\10.CalculateSum\obj\Debug\10.CalculateSum.pdb

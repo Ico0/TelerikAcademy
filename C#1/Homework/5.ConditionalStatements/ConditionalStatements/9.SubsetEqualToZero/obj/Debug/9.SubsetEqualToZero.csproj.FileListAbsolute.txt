@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\9.SubsetEqualToZero\bin\Debug\9.SubsetEqualToZero.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\9.SubsetEqualToZero\bin\Debug\9.SubsetEqualToZero.exe
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\9.SubsetEqualToZero\bin\Debug\9.SubsetEqualToZero.pdb
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\9.SubsetEqualToZero\obj\Debug\9.SubsetEqualToZero.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\9.SubsetEqualToZero\obj\Debug\9.SubsetEqualToZero.exe
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\9.SubsetEqualToZero\obj\Debug\9.SubsetEqualToZero.pdb

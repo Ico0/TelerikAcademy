@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\PerimeterAndAreaOfCircle\bin\Debug\PerimeterAndAreaOfCircle.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\PerimeterAndAreaOfCircle\obj\Debug\PerimeterAndAreaOfCircle.exe
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\PerimeterAndAreaOfCircle\obj\Debug\PerimeterAndAreaOfCircle.pdb
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\2.PerimeterAndAreaOfCircle\bin\Debug\PerimeterAndAreaOfCircle.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\2.PerimeterAndAreaOfCircle\obj\Debug\PerimeterAndAreaOfCircle.exe
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\2.PerimeterAndAreaOfCircle\obj\Debug\PerimeterAndAreaOfCircle.pdb

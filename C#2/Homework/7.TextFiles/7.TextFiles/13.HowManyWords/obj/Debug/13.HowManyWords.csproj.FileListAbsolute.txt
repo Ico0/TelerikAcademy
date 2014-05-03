@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\13.HowManyWords\bin\Debug\13.HowManyWords.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\13.HowManyWords\bin\Debug\13.HowManyWords.exe
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\13.HowManyWords\bin\Debug\13.HowManyWords.pdb
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\13.HowManyWords\obj\Debug\13.HowManyWords.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\13.HowManyWords\obj\Debug\13.HowManyWords.exe
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\13.HowManyWords\obj\Debug\13.HowManyWords.pdb

@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\2.CanItBeDevided5And7\bin\Debug\2.CanItBeDevided5And7.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\2.CanItBeDevided5And7\bin\Debug\2.CanItBeDevided5And7.exe
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\2.CanItBeDevided5And7\bin\Debug\2.CanItBeDevided5And7.pdb
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\2.CanItBeDevided5And7\obj\Debug\2.CanItBeDevided5And7.exe
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\2.CanItBeDevided5And7\obj\Debug\2.CanItBeDevided5And7.pdb

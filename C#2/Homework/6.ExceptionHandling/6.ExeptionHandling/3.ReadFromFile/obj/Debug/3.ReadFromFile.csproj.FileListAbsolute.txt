@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#2\Domashno\6.ExceptionHandling\6.ExeptionHandling\3.ReadFromFile\bin\Debug\3.ReadFromFile.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\6.ExceptionHandling\6.ExeptionHandling\3.ReadFromFile\bin\Debug\3.ReadFromFile.exe
+D:\Drugi\TELERIK\C#2\Domashno\6.ExceptionHandling\6.ExeptionHandling\3.ReadFromFile\bin\Debug\3.ReadFromFile.pdb
+D:\Drugi\TELERIK\C#2\Domashno\6.ExceptionHandling\6.ExeptionHandling\3.ReadFromFile\obj\Debug\3.ReadFromFile.exe
+D:\Drugi\TELERIK\C#2\Domashno\6.ExceptionHandling\6.ExeptionHandling\3.ReadFromFile\obj\Debug\3.ReadFromFile.pdb

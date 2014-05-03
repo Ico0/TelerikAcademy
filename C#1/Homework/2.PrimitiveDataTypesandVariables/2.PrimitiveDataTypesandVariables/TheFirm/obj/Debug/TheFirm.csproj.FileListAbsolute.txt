@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\TheFirm\bin\Debug\TheFirm.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\TheFirm\bin\Debug\TheFirm.exe
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\TheFirm\bin\Debug\TheFirm.pdb
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\TheFirm\obj\Debug\TheFirm.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\TheFirm\obj\Debug\TheFirm.exe
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\TheFirm\obj\Debug\TheFirm.pdb

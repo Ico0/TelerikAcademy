@@ -1,0 +1,9 @@
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\16.NumberOfDaysBetweenDates\bin\Debug\16.NumberOfDaysBetweenDates.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\16.NumberOfDaysBetweenDates\bin\Debug\16.NumberOfDaysBetweenDates.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\16.NumberOfDaysBetweenDates\bin\Debug\16.NumberOfDaysBetweenDates.pdb
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\16.NumberOfDaysBetweenDates\obj\Debug\16.NumberOfDaysBetweenDates.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\16.NumberOfDaysBetweenDates\obj\Debug\16.NumberOfDaysBetweenDates.pdb
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\16.NumberOfDaysBetweenDates\obj\Debug\16.NumberOfDaysBetweenDates.csprojResolveAssemblyReference.cache
+E:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\16.NumberOfDaysBetweenDates\bin\Debug\16.NumberOfDaysBetweenDates.exe.config
+E:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\16.NumberOfDaysBetweenDates\obj\Debug\16.NumberOfDaysBetweenDates.exe
+E:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\16.NumberOfDaysBetweenDates\obj\Debug\16.NumberOfDaysBetweenDates.pdb

@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\2.TwoArrays\bin\Debug\2.TwoArrays.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\2.TwoArrays\bin\Debug\2.TwoArrays.exe
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\2.TwoArrays\bin\Debug\2.TwoArrays.pdb
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\2.TwoArrays\obj\Debug\2.TwoArrays.exe
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\2.TwoArrays\obj\Debug\2.TwoArrays.pdb

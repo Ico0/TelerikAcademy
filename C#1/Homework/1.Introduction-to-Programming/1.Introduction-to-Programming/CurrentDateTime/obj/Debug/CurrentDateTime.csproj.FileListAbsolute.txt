@@ -1,0 +1,4 @@
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\Introduction-to-Programming\CurrentDateTime\bin\Debug\CurrentDateTime.exe
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\Introduction-to-Programming\CurrentDateTime\bin\Debug\CurrentDateTime.pdb
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\Introduction-to-Programming\CurrentDateTime\obj\Debug\CurrentDateTime.exe
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\Introduction-to-Programming\CurrentDateTime\obj\Debug\CurrentDateTime.pdb

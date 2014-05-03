@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\IsoscelesTriangleOfCopyrightSymbols\bin\Debug\IsoscelesTriangleOfCopyrightSymbols.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\IsoscelesTriangleOfCopyrightSymbols\bin\Debug\IsoscelesTriangleOfCopyrightSymbols.exe
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\IsoscelesTriangleOfCopyrightSymbols\bin\Debug\IsoscelesTriangleOfCopyrightSymbols.pdb
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\IsoscelesTriangleOfCopyrightSymbols\obj\Debug\IsoscelesTriangleOfCopyrightSymbols.exe
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\IsoscelesTriangleOfCopyrightSymbols\obj\Debug\IsoscelesTriangleOfCopyrightSymbols.pdb

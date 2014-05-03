@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\18.AllEmails\bin\Debug\18.AllEmails.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\18.AllEmails\bin\Debug\18.AllEmails.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\18.AllEmails\bin\Debug\18.AllEmails.pdb
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\18.AllEmails\obj\Debug\18.AllEmails.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\18.AllEmails\obj\Debug\18.AllEmails.pdb

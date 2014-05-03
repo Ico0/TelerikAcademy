@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\4.SortAndFind\bin\Debug\4.SortAndFind.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\4.SortAndFind\bin\Debug\4.SortAndFind.exe
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\4.SortAndFind\bin\Debug\4.SortAndFind.pdb
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\4.SortAndFind\obj\Debug\4.SortAndFind.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\4.SortAndFind\obj\Debug\4.SortAndFind.exe
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\4.SortAndFind\obj\Debug\4.SortAndFind.pdb

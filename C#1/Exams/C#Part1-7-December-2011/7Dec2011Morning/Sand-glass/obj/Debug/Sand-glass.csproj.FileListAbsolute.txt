@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 7 Dec 2011 Morning\7Dec2011Morning\Sand-glass\bin\Debug\Sand-glass.exe.config
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 7 Dec 2011 Morning\7Dec2011Morning\Sand-glass\bin\Debug\Sand-glass.exe
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 7 Dec 2011 Morning\7Dec2011Morning\Sand-glass\bin\Debug\Sand-glass.pdb
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 7 Dec 2011 Morning\7Dec2011Morning\Sand-glass\obj\Debug\Sand-glass.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 7 Dec 2011 Morning\7Dec2011Morning\Sand-glass\obj\Debug\Sand-glass.exe
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 7 Dec 2011 Morning\7Dec2011Morning\Sand-glass\obj\Debug\Sand-glass.pdb

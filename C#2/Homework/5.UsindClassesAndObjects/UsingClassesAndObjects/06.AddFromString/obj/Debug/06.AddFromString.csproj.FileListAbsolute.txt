@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\06.AddFromString\bin\Debug\06.AddFromString.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\06.AddFromString\bin\Debug\06.AddFromString.exe
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\06.AddFromString\bin\Debug\06.AddFromString.pdb
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\06.AddFromString\obj\Debug\06.AddFromString.exe
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\06.AddFromString\obj\Debug\06.AddFromString.pdb
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\06.AddFromString\obj\Debug\06.AddFromString.csprojResolveAssemblyReference.cache

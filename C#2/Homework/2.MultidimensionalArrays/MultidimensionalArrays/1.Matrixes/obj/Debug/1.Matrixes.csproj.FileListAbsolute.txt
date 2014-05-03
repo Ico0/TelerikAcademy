@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\1.Matrixes\bin\Debug\1.Matrixes.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\1.Matrixes\bin\Debug\1.Matrixes.exe
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\1.Matrixes\bin\Debug\1.Matrixes.pdb
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\1.Matrixes\obj\Debug\1.Matrixes.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\1.Matrixes\obj\Debug\1.Matrixes.exe
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\1.Matrixes\obj\Debug\1.Matrixes.pdb

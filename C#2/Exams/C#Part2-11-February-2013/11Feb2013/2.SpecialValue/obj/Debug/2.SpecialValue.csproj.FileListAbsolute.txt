@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@11Feb2013\11Feb2013\2.SpecialValue\bin\Debug\2.SpecialValue.exe.config
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@11Feb2013\11Feb2013\2.SpecialValue\bin\Debug\2.SpecialValue.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@11Feb2013\11Feb2013\2.SpecialValue\bin\Debug\2.SpecialValue.pdb
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@11Feb2013\11Feb2013\2.SpecialValue\obj\Debug\2.SpecialValue.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@11Feb2013\11Feb2013\2.SpecialValue\obj\Debug\2.SpecialValue.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@11Feb2013\11Feb2013\2.SpecialValue\obj\Debug\2.SpecialValue.pdb

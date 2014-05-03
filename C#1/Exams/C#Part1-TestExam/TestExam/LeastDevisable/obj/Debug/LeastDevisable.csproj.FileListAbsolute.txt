@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\LeastDevisable\bin\Debug\LeastDevisable.exe.config
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\LeastDevisable\bin\Debug\LeastDevisable.exe
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\LeastDevisable\bin\Debug\LeastDevisable.pdb
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\LeastDevisable\obj\Debug\LeastDevisable.exe
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\LeastDevisable\obj\Debug\LeastDevisable.pdb

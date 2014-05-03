@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\4.HowManyTimes\bin\Debug\4.HowManyTimes.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\4.HowManyTimes\bin\Debug\4.HowManyTimes.exe
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\4.HowManyTimes\bin\Debug\4.HowManyTimes.pdb
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\4.HowManyTimes\obj\Debug\4.HowManyTimes.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\4.HowManyTimes\obj\Debug\4.HowManyTimes.exe
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\4.HowManyTimes\obj\Debug\4.HowManyTimes.pdb

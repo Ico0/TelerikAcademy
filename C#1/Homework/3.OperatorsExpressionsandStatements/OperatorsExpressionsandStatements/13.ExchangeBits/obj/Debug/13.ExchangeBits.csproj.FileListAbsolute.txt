@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\13.ExchangeBits\bin\Debug\13.ExchangeBits.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\13.ExchangeBits\bin\Debug\13.ExchangeBits.exe
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\13.ExchangeBits\bin\Debug\13.ExchangeBits.pdb
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\13.ExchangeBits\obj\Debug\13.ExchangeBits.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\13.ExchangeBits\obj\Debug\13.ExchangeBits.exe
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\13.ExchangeBits\obj\Debug\13.ExchangeBits.pdb

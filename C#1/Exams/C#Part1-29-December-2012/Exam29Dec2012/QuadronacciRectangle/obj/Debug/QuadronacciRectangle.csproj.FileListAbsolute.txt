@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 29 Dec 2012\Exam29Dec2012\QuadronacciRectangle\bin\Debug\QuadronacciRectangle.exe.config
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 29 Dec 2012\Exam29Dec2012\QuadronacciRectangle\bin\Debug\QuadronacciRectangle.exe
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 29 Dec 2012\Exam29Dec2012\QuadronacciRectangle\bin\Debug\QuadronacciRectangle.pdb
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 29 Dec 2012\Exam29Dec2012\QuadronacciRectangle\obj\Debug\QuadronacciRectangle.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 29 Dec 2012\Exam29Dec2012\QuadronacciRectangle\obj\Debug\QuadronacciRectangle.exe
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 29 Dec 2012\Exam29Dec2012\QuadronacciRectangle\obj\Debug\QuadronacciRectangle.pdb

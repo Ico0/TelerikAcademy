@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 7 Dec 2011 Morning\7Dec2011Morning\Line\bin\Debug\Line.exe.config
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 7 Dec 2011 Morning\7Dec2011Morning\Line\bin\Debug\Line.exe
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 7 Dec 2011 Morning\7Dec2011Morning\Line\bin\Debug\Line.pdb
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 7 Dec 2011 Morning\7Dec2011Morning\Line\obj\Debug\Line.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 7 Dec 2011 Morning\7Dec2011Morning\Line\obj\Debug\Line.exe
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 7 Dec 2011 Morning\7Dec2011Morning\Line\obj\Debug\Line.pdb

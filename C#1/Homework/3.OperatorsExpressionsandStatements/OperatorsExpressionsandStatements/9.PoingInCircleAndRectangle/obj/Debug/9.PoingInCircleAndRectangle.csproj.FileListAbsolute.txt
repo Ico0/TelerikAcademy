@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\9.PoingInCircleAndRectangle\bin\Debug\9.PoingInCircleAndRectangle.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\9.PoingInCircleAndRectangle\bin\Debug\9.PoingInCircleAndRectangle.exe
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\9.PoingInCircleAndRectangle\bin\Debug\9.PoingInCircleAndRectangle.pdb
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\9.PoingInCircleAndRectangle\obj\Debug\9.PoingInCircleAndRectangle.exe
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\9.PoingInCircleAndRectangle\obj\Debug\9.PoingInCircleAndRectangle.pdb

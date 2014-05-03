@@ -1,0 +1,9 @@
+C:\Users\Ico0\Desktop\CSharp24.06.2013\1.Garden\bin\Debug\1.Garden.exe.config
+C:\Users\Ico0\Desktop\CSharp24.06.2013\1.Garden\bin\Debug\1.Garden.exe
+C:\Users\Ico0\Desktop\CSharp24.06.2013\1.Garden\bin\Debug\1.Garden.pdb
+C:\Users\Ico0\Desktop\CSharp24.06.2013\1.Garden\obj\Debug\1.Garden.csprojResolveAssemblyReference.cache
+C:\Users\Ico0\Desktop\CSharp24.06.2013\1.Garden\obj\Debug\1.Garden.exe
+C:\Users\Ico0\Desktop\CSharp24.06.2013\1.Garden\obj\Debug\1.Garden.pdb
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp24.06.2013\1.Garden\bin\Debug\1.Garden.exe.config
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp24.06.2013\1.Garden\obj\Debug\1.Garden.exe
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp24.06.2013\1.Garden\obj\Debug\1.Garden.pdb

@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\10.BonusScores\bin\Debug\10.BonusScores.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\10.BonusScores\bin\Debug\10.BonusScores.exe
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\10.BonusScores\bin\Debug\10.BonusScores.pdb
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\10.BonusScores\obj\Debug\10.BonusScores.exe
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\10.BonusScores\obj\Debug\10.BonusScores.pdb

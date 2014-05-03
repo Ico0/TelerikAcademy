@@ -1,0 +1,9 @@
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\07.CodeAndDecode\bin\Debug\07.CodeAndDecode.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\07.CodeAndDecode\obj\Debug\07.CodeAndDecode.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\07.CodeAndDecode\bin\Debug\07.CodeAndDecode.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\07.CodeAndDecode\bin\Debug\07.CodeAndDecode.pdb
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\07.CodeAndDecode\obj\Debug\07.CodeAndDecode.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\07.CodeAndDecode\obj\Debug\07.CodeAndDecode.pdb
+E:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\07.CodeAndDecode\bin\Debug\07.CodeAndDecode.exe.config
+E:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\07.CodeAndDecode\obj\Debug\07.CodeAndDecode.exe
+E:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\07.CodeAndDecode\obj\Debug\07.CodeAndDecode.pdb

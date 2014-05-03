@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\06.Read20Chars\bin\Debug\06.Read20Chars.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\06.Read20Chars\bin\Debug\06.Read20Chars.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\06.Read20Chars\bin\Debug\06.Read20Chars.pdb
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\06.Read20Chars\obj\Debug\06.Read20Chars.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\06.Read20Chars\obj\Debug\06.Read20Chars.pdb

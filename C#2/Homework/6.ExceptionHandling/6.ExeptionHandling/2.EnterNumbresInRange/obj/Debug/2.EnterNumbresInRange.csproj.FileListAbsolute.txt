@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\6.ExceptionHandling\6.ExeptionHandling\2.EnterNumbresInRange\bin\Debug\2.EnterNumbresInRange.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\6.ExceptionHandling\6.ExeptionHandling\2.EnterNumbresInRange\bin\Debug\2.EnterNumbresInRange.exe
+D:\Drugi\TELERIK\C#2\Domashno\6.ExceptionHandling\6.ExeptionHandling\2.EnterNumbresInRange\bin\Debug\2.EnterNumbresInRange.pdb
+D:\Drugi\TELERIK\C#2\Domashno\6.ExceptionHandling\6.ExeptionHandling\2.EnterNumbresInRange\obj\Debug\2.EnterNumbresInRange.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\6.ExceptionHandling\6.ExeptionHandling\2.EnterNumbresInRange\obj\Debug\2.EnterNumbresInRange.exe
+D:\Drugi\TELERIK\C#2\Domashno\6.ExceptionHandling\6.ExeptionHandling\2.EnterNumbresInRange\obj\Debug\2.EnterNumbresInRange.pdb

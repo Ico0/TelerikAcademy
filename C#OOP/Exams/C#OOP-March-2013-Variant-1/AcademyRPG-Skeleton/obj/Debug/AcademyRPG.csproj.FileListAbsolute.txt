@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#OOP\Kontrolni\OOP-March-2013-Variant1\AcademyRPG-Skeleton\bin\Debug\AcademyRPG.exe
+D:\Drugi\TELERIK\C#OOP\Kontrolni\OOP-March-2013-Variant1\AcademyRPG-Skeleton\bin\Debug\AcademyRPG.pdb
+D:\Drugi\TELERIK\C#OOP\Kontrolni\OOP-March-2013-Variant1\AcademyRPG-Skeleton\obj\Debug\AcademyRPG.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#OOP\Kontrolni\OOP-March-2013-Variant1\AcademyRPG-Skeleton\obj\Debug\AcademyRPG.exe
+D:\Drugi\TELERIK\C#OOP\Kontrolni\OOP-March-2013-Variant1\AcademyRPG-Skeleton\obj\Debug\AcademyRPG.pdb

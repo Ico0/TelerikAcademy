@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\6.MatrixOverload\bin\Debug\6.MatrixOverload.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\6.MatrixOverload\bin\Debug\6.MatrixOverload.exe
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\6.MatrixOverload\bin\Debug\6.MatrixOverload.pdb
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\6.MatrixOverload\obj\Debug\6.MatrixOverload.exe
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\6.MatrixOverload\obj\Debug\6.MatrixOverload.pdb
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\6.MatrixOverload\obj\Debug\6.MatrixOverload.csprojResolveAssemblyReference.cache

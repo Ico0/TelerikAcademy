@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\1.HelloYourName\bin\Debug\1.HelloYourName.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\1.HelloYourName\bin\Debug\1.HelloYourName.exe
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\1.HelloYourName\bin\Debug\1.HelloYourName.pdb
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\1.HelloYourName\obj\Debug\1.HelloYourName.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\1.HelloYourName\obj\Debug\1.HelloYourName.exe
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\1.HelloYourName\obj\Debug\1.HelloYourName.pdb

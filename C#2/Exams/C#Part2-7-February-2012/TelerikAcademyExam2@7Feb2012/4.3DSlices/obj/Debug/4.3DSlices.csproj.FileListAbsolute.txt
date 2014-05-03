@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@7Feb2012\TelerikAcademyExam2@7Feb2012\4.3DSlices\bin\Debug\4.3DSlices.exe.config
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@7Feb2012\TelerikAcademyExam2@7Feb2012\4.3DSlices\bin\Debug\4.3DSlices.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@7Feb2012\TelerikAcademyExam2@7Feb2012\4.3DSlices\bin\Debug\4.3DSlices.pdb
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@7Feb2012\TelerikAcademyExam2@7Feb2012\4.3DSlices\obj\Debug\4.3DSlices.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@7Feb2012\TelerikAcademyExam2@7Feb2012\4.3DSlices\obj\Debug\4.3DSlices.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@7Feb2012\TelerikAcademyExam2@7Feb2012\4.3DSlices\obj\Debug\4.3DSlices.pdb

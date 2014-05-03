@@ -1,0 +1,11 @@
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\Introduction-to-Programming\PrintFirstTenOfTheSequence\bin\Debug\PrintFirstTenOfTheSequence.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\Introduction-to-Programming\PrintFirstTenOfTheSequence\bin\Debug\PrintFirstTenOfTheSequence.exe
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\Introduction-to-Programming\PrintFirstTenOfTheSequence\bin\Debug\PrintFirstTenOfTheSequence.pdb
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\Introduction-to-Programming\PrintFirstTenOfTheSequence\obj\Debug\PrintFirstTenOfTheSequence.exe
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\Introduction-to-Programming\PrintFirstTenOfTheSequence\obj\Debug\PrintFirstTenOfTheSequence.pdb
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\PrintFirstTenOfTheSequence\bin\Debug\PrintFirstTenOfTheSequence.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\PrintFirstTenOfTheSequence\obj\Debug\PrintFirstTenOfTheSequence.exe
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\PrintFirstTenOfTheSequence\obj\Debug\PrintFirstTenOfTheSequence.pdb
+D:\Drugi\TELERIK\C#1\Domashno\1.Introduction-to-Programming\PrintFirstTenOfTheSequence\bin\Debug\PrintFirstTenOfTheSequence.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\1.Introduction-to-Programming\PrintFirstTenOfTheSequence\obj\Debug\PrintFirstTenOfTheSequence.exe
+D:\Drugi\TELERIK\C#1\Domashno\1.Introduction-to-Programming\PrintFirstTenOfTheSequence\obj\Debug\PrintFirstTenOfTheSequence.pdb

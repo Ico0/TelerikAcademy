@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\TeamWork\TeamSnoopy\ConsoleGame\ApacheCombat\bin\Debug\02.ApacheCombat.exe.config
+D:\Drugi\TELERIK\C#2\TeamWork\TeamSnoopy\ConsoleGame\ApacheCombat\bin\Debug\02.ApacheCombat.exe
+D:\Drugi\TELERIK\C#2\TeamWork\TeamSnoopy\ConsoleGame\ApacheCombat\bin\Debug\02.ApacheCombat.pdb
+D:\Drugi\TELERIK\C#2\TeamWork\TeamSnoopy\ConsoleGame\ApacheCombat\obj\Debug\ApacheCombat.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\TeamWork\TeamSnoopy\ConsoleGame\ApacheCombat\obj\Debug\02.ApacheCombat.exe
+D:\Drugi\TELERIK\C#2\TeamWork\TeamSnoopy\ConsoleGame\ApacheCombat\obj\Debug\02.ApacheCombat.pdb

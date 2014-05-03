@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\ASCII\bin\Debug\ASCII.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\ASCII\bin\Debug\ASCII.exe
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\ASCII\bin\Debug\ASCII.pdb
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\ASCII\obj\Debug\ASCII.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\ASCII\obj\Debug\ASCII.exe
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\ASCII\obj\Debug\ASCII.pdb

@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\08.ReplaceOnlyWord\bin\Debug\08.ReplaceOnlyWord.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\08.ReplaceOnlyWord\bin\Debug\08.ReplaceOnlyWord.exe
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\08.ReplaceOnlyWord\bin\Debug\08.ReplaceOnlyWord.pdb
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\08.ReplaceOnlyWord\obj\Debug\08.ReplaceOnlyWord.exe
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\08.ReplaceOnlyWord\obj\Debug\08.ReplaceOnlyWord.pdb

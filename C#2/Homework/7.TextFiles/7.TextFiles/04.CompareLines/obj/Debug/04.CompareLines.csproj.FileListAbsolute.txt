@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\04.CompareLines\bin\Debug\04.CompareLines.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\04.CompareLines\bin\Debug\04.CompareLines.exe
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\04.CompareLines\bin\Debug\04.CompareLines.pdb
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\04.CompareLines\obj\Debug\04.CompareLines.exe
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\04.CompareLines\obj\Debug\04.CompareLines.pdb

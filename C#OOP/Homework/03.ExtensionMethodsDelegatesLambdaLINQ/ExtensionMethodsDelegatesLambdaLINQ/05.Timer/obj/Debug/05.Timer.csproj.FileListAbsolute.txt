@@ -1,0 +1,12 @@
+D:\Drugi\TELERIK\C#OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\05.Timer\bin\Debug\05.Timer.exe.config
+D:\Drugi\TELERIK\C#OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\05.Timer\bin\Debug\05.Timer.exe
+D:\Drugi\TELERIK\C#OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\05.Timer\bin\Debug\05.Timer.pdb
+D:\Drugi\TELERIK\C#OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\05.Timer\obj\Debug\05.Timer.exe
+D:\Drugi\TELERIK\C#OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\05.Timer\obj\Debug\05.Timer.pdb
+D:\Drugi\TELERIK\C#OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\05.Timer\obj\Debug\05.Timer.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#OOP\Domashni\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\05.Timer\bin\Debug\05.Timer.exe.config
+D:\Drugi\TELERIK\C#OOP\Domashni\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\05.Timer\obj\Debug\05.Timer.exe
+D:\Drugi\TELERIK\C#OOP\Domashni\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\05.Timer\obj\Debug\05.Timer.pdb
+D:\Drugi\TELERIK\C#OOP\Domashni\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\05.Timer\bin\Debug\05.Timer.exe
+D:\Drugi\TELERIK\C#OOP\Domashni\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\05.Timer\bin\Debug\05.Timer.pdb
+D:\Drugi\TELERIK\C#OOP\Domashni\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\05.Timer\obj\Debug\05.Timer.csprojResolveAssemblyReference.cache

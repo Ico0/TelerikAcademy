@@ -1,0 +1,8 @@
+D:\Drugi\TELERIK\JavaScript#1\Izpiti\Variant1\Variant1\bin\Variant1.dll
+D:\Drugi\TELERIK\JavaScript#1\Izpiti\Variant1\Variant1\bin\Variant1.pdb
+D:\Drugi\TELERIK\JavaScript#1\Izpiti\Variant1\Variant1\bin\Variant1.xml
+D:\Drugi\TELERIK\JavaScript#1\Izpiti\Variant1\Variant1\obj\Debug\Variant1.Resources.resources
+D:\Drugi\TELERIK\JavaScript#1\Izpiti\Variant1\Variant1\obj\Debug\Variant1.vbproj.GenerateResource.Cache
+D:\Drugi\TELERIK\JavaScript#1\Izpiti\Variant1\Variant1\obj\Debug\Variant1.dll
+D:\Drugi\TELERIK\JavaScript#1\Izpiti\Variant1\Variant1\obj\Debug\Variant1.xml
+D:\Drugi\TELERIK\JavaScript#1\Izpiti\Variant1\Variant1\obj\Debug\Variant1.pdb

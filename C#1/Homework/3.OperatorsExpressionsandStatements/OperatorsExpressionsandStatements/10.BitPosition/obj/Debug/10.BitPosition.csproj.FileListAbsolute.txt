@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\10.BitPosition\bin\Debug\10.BitPosition.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\10.BitPosition\bin\Debug\10.BitPosition.exe
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\10.BitPosition\bin\Debug\10.BitPosition.pdb
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\10.BitPosition\obj\Debug\10.BitPosition.exe
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\10.BitPosition\obj\Debug\10.BitPosition.pdb
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\10.BitPosition\obj\Debug\10.BitPosition.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 28 Dec 2012\Exam1.28Dec2012\A-nacci\bin\Debug\A-nacci.exe.config
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 28 Dec 2012\Exam1.28Dec2012\A-nacci\bin\Debug\A-nacci.exe
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 28 Dec 2012\Exam1.28Dec2012\A-nacci\bin\Debug\A-nacci.pdb
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 28 Dec 2012\Exam1.28Dec2012\A-nacci\obj\Debug\A-nacci.exe
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 28 Dec 2012\Exam1.28Dec2012\A-nacci\obj\Debug\A-nacci.pdb
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 28 Dec 2012\Exam1.28Dec2012\A-nacci\obj\Debug\A-nacci.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Kontrolni\Practice Telerik Academy Exam 1 @ 28 Dec 2012\Exam1.28Dec2012\A-nacci\bin\Debug\A-nacci.exe.config
+D:\Drugi\TELERIK\C#1\Kontrolni\Practice Telerik Academy Exam 1 @ 28 Dec 2012\Exam1.28Dec2012\A-nacci\obj\Debug\A-nacci.exe
+D:\Drugi\TELERIK\C#1\Kontrolni\Practice Telerik Academy Exam 1 @ 28 Dec 2012\Exam1.28Dec2012\A-nacci\obj\Debug\A-nacci.pdb

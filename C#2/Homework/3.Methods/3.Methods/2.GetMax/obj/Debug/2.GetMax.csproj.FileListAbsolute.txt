@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\2.GetMax\bin\Debug\2.GetMax.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\2.GetMax\bin\Debug\2.GetMax.exe
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\2.GetMax\bin\Debug\2.GetMax.pdb
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\2.GetMax\obj\Debug\2.GetMax.exe
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\2.GetMax\obj\Debug\2.GetMax.pdb

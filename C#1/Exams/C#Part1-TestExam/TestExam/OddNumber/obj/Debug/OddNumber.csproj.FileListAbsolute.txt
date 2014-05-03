@@ -1,0 +1,12 @@
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\OddNumber\bin\Debug\OddNumber.exe.config
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\OddNumber\bin\Debug\OddNumber.exe
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\OddNumber\bin\Debug\OddNumber.pdb
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\OddNumber\obj\Debug\OddNumber.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\OddNumber\obj\Debug\OddNumber.exe
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\OddNumber\obj\Debug\OddNumber.pdb
+D:\Drugi\TELERIK\C#1\Kontrolni\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\OddNumber\bin\Debug\OddNumber.exe.config
+D:\Drugi\TELERIK\C#1\Kontrolni\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\OddNumber\obj\Debug\OddNumber.exe
+D:\Drugi\TELERIK\C#1\Kontrolni\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\OddNumber\obj\Debug\OddNumber.pdb
+D:\Drugi\TELERIK\C#1\Kontrolni\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\OddNumber\bin\Debug\OddNumber.exe
+D:\Drugi\TELERIK\C#1\Kontrolni\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\OddNumber\bin\Debug\OddNumber.pdb
+D:\Drugi\TELERIK\C#1\Kontrolni\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\OddNumber\obj\Debug\OddNumber.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\16.SubsetSumSNotSequence\bin\Debug\16.SubsetSumSNotSequence.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\16.SubsetSumSNotSequence\bin\Debug\16.SubsetSumSNotSequence.exe
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\16.SubsetSumSNotSequence\bin\Debug\16.SubsetSumSNotSequence.pdb
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\16.SubsetSumSNotSequence\obj\Debug\16.SubsetSumSNotSequence.exe
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\16.SubsetSumSNotSequence\obj\Debug\16.SubsetSumSNotSequence.pdb
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\16.SubsetSumSNotSequence\obj\Debug\16.SubsetSumSNotSequence.csprojResolveAssemblyReference.cache

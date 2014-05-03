@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\25.WithoutHTML\bin\Debug\25.WithoutHTML.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\25.WithoutHTML\bin\Debug\25.WithoutHTML.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\25.WithoutHTML\bin\Debug\25.WithoutHTML.pdb
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\25.WithoutHTML\obj\Debug\25.WithoutHTML.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\25.WithoutHTML\obj\Debug\25.WithoutHTML.pdb
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\25.WithoutHTML\obj\Debug\25.WithoutHTML.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\1.InitializeBy5\bin\Debug\1.InitializeBy5.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\1.InitializeBy5\bin\Debug\1.InitializeBy5.exe
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\1.InitializeBy5\bin\Debug\1.InitializeBy5.pdb
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\1.InitializeBy5\obj\Debug\1.InitializeBy5.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\1.InitializeBy5\obj\Debug\1.InitializeBy5.exe
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\1.InitializeBy5\obj\Debug\1.InitializeBy5.pdb

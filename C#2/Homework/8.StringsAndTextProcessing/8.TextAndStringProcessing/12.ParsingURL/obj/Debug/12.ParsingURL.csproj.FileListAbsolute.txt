@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\12.ParsingURL\bin\Debug\12.ParsingURL.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\12.ParsingURL\bin\Debug\12.ParsingURL.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\12.ParsingURL\bin\Debug\12.ParsingURL.pdb
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\12.ParsingURL\obj\Debug\12.ParsingURL.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\12.ParsingURL\obj\Debug\12.ParsingURL.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\12.ParsingURL\obj\Debug\12.ParsingURL.pdb

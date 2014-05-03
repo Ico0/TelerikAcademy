@@ -1,0 +1,9 @@
+D:\Drugi\TELERIK\C#OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\01.ExtensionToStringBuilder\bin\Debug\01.ExtensionToStringBuilder.exe.config
+D:\Drugi\TELERIK\C#OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\01.ExtensionToStringBuilder\obj\Debug\01.ExtensionToStringBuilder.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\01.ExtensionToStringBuilder\bin\Debug\01.ExtensionToStringBuilder.exe
+D:\Drugi\TELERIK\C#OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\01.ExtensionToStringBuilder\bin\Debug\01.ExtensionToStringBuilder.pdb
+D:\Drugi\TELERIK\C#OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\01.ExtensionToStringBuilder\obj\Debug\01.ExtensionToStringBuilder.exe
+D:\Drugi\TELERIK\C#OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\01.ExtensionToStringBuilder\obj\Debug\01.ExtensionToStringBuilder.pdb
+D:\Drugi\TELERIK\C#OOP\Domashni\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\01.ExtensionToStringBuilder\bin\Debug\01.ExtensionToStringBuilder.exe.config
+D:\Drugi\TELERIK\C#OOP\Domashni\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\01.ExtensionToStringBuilder\obj\Debug\01.ExtensionToStringBuilder.exe
+D:\Drugi\TELERIK\C#OOP\Domashni\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\01.ExtensionToStringBuilder\obj\Debug\01.ExtensionToStringBuilder.pdb

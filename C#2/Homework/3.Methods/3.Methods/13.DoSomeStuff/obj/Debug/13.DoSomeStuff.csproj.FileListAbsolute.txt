@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\13.DoSomeStuff\bin\Debug\13.DoSomeStuff.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\13.DoSomeStuff\bin\Debug\13.DoSomeStuff.exe
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\13.DoSomeStuff\bin\Debug\13.DoSomeStuff.pdb
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\13.DoSomeStuff\obj\Debug\13.DoSomeStuff.exe
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\13.DoSomeStuff\obj\Debug\13.DoSomeStuff.pdb
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\13.DoSomeStuff\obj\Debug\13.DoSomeStuff.csprojResolveAssemblyReference.cache

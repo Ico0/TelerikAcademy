@@ -1,0 +1,8 @@
+D:\Drugi\TELERIK\CSS\CSSPresentation\CSSPresentation\CSSPresentation\bin\CSSPresentation.dll
+D:\Drugi\TELERIK\CSS\CSSPresentation\CSSPresentation\CSSPresentation\bin\CSSPresentation.pdb
+D:\Drugi\TELERIK\CSS\CSSPresentation\CSSPresentation\CSSPresentation\bin\CSSPresentation.xml
+D:\Drugi\TELERIK\CSS\CSSPresentation\CSSPresentation\CSSPresentation\obj\Debug\CSSPresentation.Resources.resources
+D:\Drugi\TELERIK\CSS\CSSPresentation\CSSPresentation\CSSPresentation\obj\Debug\01.WebPageLorem.vbproj.GenerateResource.Cache
+D:\Drugi\TELERIK\CSS\CSSPresentation\CSSPresentation\CSSPresentation\obj\Debug\CSSPresentation.dll
+D:\Drugi\TELERIK\CSS\CSSPresentation\CSSPresentation\CSSPresentation\obj\Debug\CSSPresentation.xml
+D:\Drugi\TELERIK\CSS\CSSPresentation\CSSPresentation\CSSPresentation\obj\Debug\CSSPresentation.pdb

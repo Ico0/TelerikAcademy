@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\4.NumeralSystems\NumeralSystems\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\4.NumeralSystems\NumeralSystems\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.exe
+D:\Drugi\TELERIK\C#2\Domashno\4.NumeralSystems\NumeralSystems\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.pdb
+D:\Drugi\TELERIK\C#2\Domashno\4.NumeralSystems\NumeralSystems\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\4.NumeralSystems\NumeralSystems\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.exe
+D:\Drugi\TELERIK\C#2\Domashno\4.NumeralSystems\NumeralSystems\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.pdb

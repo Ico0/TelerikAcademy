@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\03.NumberInfrontOfLine\bin\Debug\03.NumberInfrontOfLine.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\03.NumberInfrontOfLine\bin\Debug\03.NumberInfrontOfLine.exe
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\03.NumberInfrontOfLine\bin\Debug\03.NumberInfrontOfLine.pdb
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\03.NumberInfrontOfLine\obj\Debug\03.NumberInfrontOfLine.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\03.NumberInfrontOfLine\obj\Debug\03.NumberInfrontOfLine.exe
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\03.NumberInfrontOfLine\obj\Debug\03.NumberInfrontOfLine.pdb

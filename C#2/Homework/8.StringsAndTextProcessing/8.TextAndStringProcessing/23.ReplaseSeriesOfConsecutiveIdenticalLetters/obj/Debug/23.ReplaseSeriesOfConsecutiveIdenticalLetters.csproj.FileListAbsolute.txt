@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\23.ReplaseSeriesOfConsecutiveIdenticalLetters\bin\Debug\23.ReplaseSeriesOfConsecutiveIdenticalLetters.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\23.ReplaseSeriesOfConsecutiveIdenticalLetters\bin\Debug\23.ReplaseSeriesOfConsecutiveIdenticalLetters.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\23.ReplaseSeriesOfConsecutiveIdenticalLetters\bin\Debug\23.ReplaseSeriesOfConsecutiveIdenticalLetters.pdb
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\23.ReplaseSeriesOfConsecutiveIdenticalLetters\obj\Debug\23.ReplaseSeriesOfConsecutiveIdenticalLetters.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\23.ReplaseSeriesOfConsecutiveIdenticalLetters\obj\Debug\23.ReplaseSeriesOfConsecutiveIdenticalLetters.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\23.ReplaseSeriesOfConsecutiveIdenticalLetters\obj\Debug\23.ReplaseSeriesOfConsecutiveIdenticalLetters.pdb

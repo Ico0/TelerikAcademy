@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\1.ChangeIfGreater\bin\Debug\1.ChangeIfGreater.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\1.ChangeIfGreater\obj\Debug\1.ChangeIfGreater.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\1.ChangeIfGreater\bin\Debug\1.ChangeIfGreater.exe
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\1.ChangeIfGreater\bin\Debug\1.ChangeIfGreater.pdb
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\1.ChangeIfGreater\obj\Debug\1.ChangeIfGreater.exe
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\1.ChangeIfGreater\obj\Debug\1.ChangeIfGreater.pdb

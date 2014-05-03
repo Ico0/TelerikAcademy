@@ -1,0 +1,6 @@
+C:\Users\Ico0\Desktop\CSharp24.06.2013\4.BatGoikoTower\bin\Debug\4.BatGoikoTower.exe.config
+C:\Users\Ico0\Desktop\CSharp24.06.2013\4.BatGoikoTower\bin\Debug\4.BatGoikoTower.exe
+C:\Users\Ico0\Desktop\CSharp24.06.2013\4.BatGoikoTower\bin\Debug\4.BatGoikoTower.pdb
+C:\Users\Ico0\Desktop\CSharp24.06.2013\4.BatGoikoTower\obj\Debug\4.BatGoikoTower.csprojResolveAssemblyReference.cache
+C:\Users\Ico0\Desktop\CSharp24.06.2013\4.BatGoikoTower\obj\Debug\4.BatGoikoTower.exe
+C:\Users\Ico0\Desktop\CSharp24.06.2013\4.BatGoikoTower\obj\Debug\4.BatGoikoTower.pdb

@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\22.DifferentWords\bin\Debug\22.DifferentWords.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\22.DifferentWords\bin\Debug\22.DifferentWords.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\22.DifferentWords\bin\Debug\22.DifferentWords.pdb
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\22.DifferentWords\obj\Debug\22.DifferentWords.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\22.DifferentWords\obj\Debug\22.DifferentWords.pdb

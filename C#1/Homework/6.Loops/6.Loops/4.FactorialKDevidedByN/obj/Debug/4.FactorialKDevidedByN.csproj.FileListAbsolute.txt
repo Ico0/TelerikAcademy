@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\4.FactorialKDevidedByN\bin\Debug\4.FactorialKDevidedByN.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\4.FactorialKDevidedByN\bin\Debug\4.FactorialKDevidedByN.exe
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\4.FactorialKDevidedByN\bin\Debug\4.FactorialKDevidedByN.pdb
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\4.FactorialKDevidedByN\obj\Debug\4.FactorialKDevidedByN.exe
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\4.FactorialKDevidedByN\obj\Debug\4.FactorialKDevidedByN.pdb
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\4.FactorialKDevidedByN\obj\Debug\4.FactorialKDevidedByN.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Ico0\Desktop\CSharp24.06.2013\5.Bittris\bin\Debug\5.Bittris.exe.config
+C:\Users\Ico0\Desktop\CSharp24.06.2013\5.Bittris\obj\Debug\5.Bittris.csprojResolveAssemblyReference.cache
+C:\Users\Ico0\Desktop\CSharp24.06.2013\5.Bittris\bin\Debug\5.Bittris.exe
+C:\Users\Ico0\Desktop\CSharp24.06.2013\5.Bittris\bin\Debug\5.Bittris.pdb
+C:\Users\Ico0\Desktop\CSharp24.06.2013\5.Bittris\obj\Debug\5.Bittris.exe
+C:\Users\Ico0\Desktop\CSharp24.06.2013\5.Bittris\obj\Debug\5.Bittris.pdb
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp24.06.2013\5.Bittris\bin\Debug\5.Bittris.exe.config
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp24.06.2013\5.Bittris\obj\Debug\5.Bittris.exe
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp24.06.2013\5.Bittris\obj\Debug\5.Bittris.pdb
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp24.06.2013\5.Bittris\bin\Debug\5.Bittris.exe
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp24.06.2013\5.Bittris\bin\Debug\5.Bittris.pdb
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp24.06.2013\5.Bittris\obj\Debug\5.Bittris.csprojResolveAssemblyReference.cache

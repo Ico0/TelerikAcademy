@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp23.06.2013\CSharp23.06.2013\Neurons\bin\Debug\Neurons.exe.config
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp23.06.2013\CSharp23.06.2013\Neurons\bin\Debug\Neurons.exe
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp23.06.2013\CSharp23.06.2013\Neurons\bin\Debug\Neurons.pdb
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp23.06.2013\CSharp23.06.2013\Neurons\obj\Debug\Neurons.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp23.06.2013\CSharp23.06.2013\Neurons\obj\Debug\Neurons.exe
+D:\Drugi\TELERIK\C#1\Kontrolni\CSharp23.06.2013\CSharp23.06.2013\Neurons\obj\Debug\Neurons.pdb

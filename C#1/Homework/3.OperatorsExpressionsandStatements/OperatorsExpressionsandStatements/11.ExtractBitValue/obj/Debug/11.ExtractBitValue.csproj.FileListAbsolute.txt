@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\11.ExtractBitValue\bin\Debug\11.ExtractBitValue.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\11.ExtractBitValue\bin\Debug\11.ExtractBitValue.exe
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\11.ExtractBitValue\bin\Debug\11.ExtractBitValue.pdb
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\11.ExtractBitValue\obj\Debug\11.ExtractBitValue.exe
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\11.ExtractBitValue\obj\Debug\11.ExtractBitValue.pdb

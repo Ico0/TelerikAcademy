@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\09.ForbiddenWords\bin\Debug\09.ForbiddenWords.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\09.ForbiddenWords\bin\Debug\09.ForbiddenWords.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\09.ForbiddenWords\bin\Debug\09.ForbiddenWords.pdb
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\09.ForbiddenWords\obj\Debug\09.ForbiddenWords.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\09.ForbiddenWords\obj\Debug\09.ForbiddenWords.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\09.ForbiddenWords\obj\Debug\09.ForbiddenWords.pdb

@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\03.WhatDayIsToday\bin\Debug\03.WhatDayIsToday.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\03.WhatDayIsToday\bin\Debug\03.WhatDayIsToday.exe
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\03.WhatDayIsToday\bin\Debug\03.WhatDayIsToday.pdb
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\03.WhatDayIsToday\obj\Debug\03.WhatDayIsToday.exe
+D:\Drugi\TELERIK\C#2\Domashno\5.UsindClassesAndObjects\UsingClassesAndObjects\03.WhatDayIsToday\obj\Debug\03.WhatDayIsToday.pdb

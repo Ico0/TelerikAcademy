@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\11.Dwarf\bin\Debug\11.Dwarf.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\11.Dwarf\bin\Debug\11.Dwarf.exe
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\11.Dwarf\bin\Debug\11.Dwarf.pdb
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\11.Dwarf\obj\Debug\11.Dwarf.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\11.Dwarf\obj\Debug\11.Dwarf.exe
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\11.Dwarf\obj\Debug\11.Dwarf.pdb

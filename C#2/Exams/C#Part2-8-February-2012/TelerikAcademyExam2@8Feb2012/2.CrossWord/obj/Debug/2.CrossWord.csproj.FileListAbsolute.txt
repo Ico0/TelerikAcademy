@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@8Feb2012\TelerikAcademyExam2@8Feb2012\2.CrossWord\bin\Debug\2.CrossWord.exe.config
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@8Feb2012\TelerikAcademyExam2@8Feb2012\2.CrossWord\bin\Debug\2.CrossWord.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@8Feb2012\TelerikAcademyExam2@8Feb2012\2.CrossWord\bin\Debug\2.CrossWord.pdb
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@8Feb2012\TelerikAcademyExam2@8Feb2012\2.CrossWord\obj\Debug\2.CrossWord.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@8Feb2012\TelerikAcademyExam2@8Feb2012\2.CrossWord\obj\Debug\2.CrossWord.pdb
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@8Feb2012\TelerikAcademyExam2@8Feb2012\2.CrossWord\obj\Debug\2.CrossWord.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\1.OneToN\bin\Debug\1.OneToN.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\1.OneToN\obj\Debug\1.OneToN.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\1.OneToN\bin\Debug\1.OneToN.exe
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\1.OneToN\bin\Debug\1.OneToN.pdb
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\1.OneToN\obj\Debug\1.OneToN.exe
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\1.OneToN\obj\Debug\1.OneToN.pdb

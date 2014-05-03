@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\PractiseStrings\bin\Debug\PractiseStrings.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\PractiseStrings\bin\Debug\PractiseStrings.exe
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\PractiseStrings\bin\Debug\PractiseStrings.pdb
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\PractiseStrings\obj\Debug\PractiseStrings.exe
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\PractiseStrings\obj\Debug\PractiseStrings.pdb

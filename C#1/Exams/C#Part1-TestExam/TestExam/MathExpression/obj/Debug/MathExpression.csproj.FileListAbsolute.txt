@@ -1,0 +1,9 @@
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\MathExpression\bin\Debug\MathExpression.exe.config
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\MathExpression\bin\Debug\MathExpression.exe
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\MathExpression\bin\Debug\MathExpression.pdb
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\MathExpression\obj\Debug\MathExpression.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\MathExpression\obj\Debug\MathExpression.exe
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\MathExpression\obj\Debug\MathExpression.pdb
+D:\Drugi\TELERIK\C#1\Kontrolni\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\MathExpression\bin\Debug\MathExpression.exe.config
+D:\Drugi\TELERIK\C#1\Kontrolni\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\MathExpression\obj\Debug\MathExpression.exe
+D:\Drugi\TELERIK\C#1\Kontrolni\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\MathExpression\obj\Debug\MathExpression.pdb

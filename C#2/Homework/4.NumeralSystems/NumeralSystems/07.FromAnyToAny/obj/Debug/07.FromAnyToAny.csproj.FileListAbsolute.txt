@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#2\Domashno\4.NumeralSystems\NumeralSystems\07.FromAnyToAny\bin\Debug\07.FromAnyToAny.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\4.NumeralSystems\NumeralSystems\07.FromAnyToAny\bin\Debug\07.FromAnyToAny.exe
+D:\Drugi\TELERIK\C#2\Domashno\4.NumeralSystems\NumeralSystems\07.FromAnyToAny\bin\Debug\07.FromAnyToAny.pdb
+D:\Drugi\TELERIK\C#2\Domashno\4.NumeralSystems\NumeralSystems\07.FromAnyToAny\obj\Debug\07.FromAnyToAny.exe
+D:\Drugi\TELERIK\C#2\Domashno\4.NumeralSystems\NumeralSystems\07.FromAnyToAny\obj\Debug\07.FromAnyToAny.pdb

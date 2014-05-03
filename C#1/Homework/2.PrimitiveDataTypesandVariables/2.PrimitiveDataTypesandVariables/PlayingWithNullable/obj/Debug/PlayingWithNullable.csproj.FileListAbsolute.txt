@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\PlayingWithNullable\bin\Debug\PlayingWithNullable.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\PlayingWithNullable\bin\Debug\PlayingWithNullable.exe
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\PlayingWithNullable\bin\Debug\PlayingWithNullable.pdb
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\PlayingWithNullable\obj\Debug\PlayingWithNullable.exe
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\PlayingWithNullable\obj\Debug\PlayingWithNullable.pdb

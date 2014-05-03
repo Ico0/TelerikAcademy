@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\8.IntDoubleOrString\bin\Debug\8.IntDoubleOrString.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\8.IntDoubleOrString\bin\Debug\8.IntDoubleOrString.exe
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\8.IntDoubleOrString\bin\Debug\8.IntDoubleOrString.pdb
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\8.IntDoubleOrString\obj\Debug\8.IntDoubleOrString.exe
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\8.IntDoubleOrString\obj\Debug\8.IntDoubleOrString.pdb

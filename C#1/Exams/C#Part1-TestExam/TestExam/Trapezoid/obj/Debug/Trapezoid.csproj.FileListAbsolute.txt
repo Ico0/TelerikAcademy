@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\Trapezoid\bin\Debug\Trapezoid.exe.config
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\Trapezoid\bin\Debug\Trapezoid.exe
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\Trapezoid\bin\Debug\Trapezoid.pdb
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\Trapezoid\obj\Debug\Trapezoid.exe
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice C# Fundamentals 20112012 Part 1 - Test Exam\TestExam\Trapezoid\obj\Debug\Trapezoid.pdb

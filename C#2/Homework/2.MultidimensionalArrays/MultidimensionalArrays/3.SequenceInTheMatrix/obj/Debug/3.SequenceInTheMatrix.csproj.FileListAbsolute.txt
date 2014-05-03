@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\3.SequenceInTheMatrix\bin\Debug\3.SequenceInTheMatrix.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\3.SequenceInTheMatrix\obj\Debug\3.SequenceInTheMatrix.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\3.SequenceInTheMatrix\bin\Debug\3.SequenceInTheMatrix.exe
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\3.SequenceInTheMatrix\bin\Debug\3.SequenceInTheMatrix.pdb
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\3.SequenceInTheMatrix\obj\Debug\3.SequenceInTheMatrix.exe
+D:\Drugi\TELERIK\C#2\Domashno\2.MultidimensionalArrays\MultidimensionalArrays\3.SequenceInTheMatrix\obj\Debug\3.SequenceInTheMatrix.pdb

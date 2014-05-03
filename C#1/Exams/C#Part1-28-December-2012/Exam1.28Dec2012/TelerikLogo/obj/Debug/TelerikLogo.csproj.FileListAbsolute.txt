@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 28 Dec 2012\Exam1.28Dec2012\TelerikLogo\bin\Debug\TelerikLogo.exe.config
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 28 Dec 2012\Exam1.28Dec2012\TelerikLogo\bin\Debug\TelerikLogo.exe
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 28 Dec 2012\Exam1.28Dec2012\TelerikLogo\bin\Debug\TelerikLogo.pdb
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 28 Dec 2012\Exam1.28Dec2012\TelerikLogo\obj\Debug\TelerikLogo.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 28 Dec 2012\Exam1.28Dec2012\TelerikLogo\obj\Debug\TelerikLogo.exe
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 28 Dec 2012\Exam1.28Dec2012\TelerikLogo\obj\Debug\TelerikLogo.pdb

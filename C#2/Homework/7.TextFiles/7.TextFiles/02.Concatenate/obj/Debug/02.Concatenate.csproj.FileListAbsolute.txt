@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\02.Concatenate\bin\Debug\02.Concatenate.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\02.Concatenate\bin\Debug\02.Concatenate.exe
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\02.Concatenate\bin\Debug\02.Concatenate.pdb
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\02.Concatenate\obj\Debug\02.Concatenate.exe
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\02.Concatenate\obj\Debug\02.Concatenate.pdb
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\02.Concatenate\obj\Debug\02.Concatenate.csprojResolveAssemblyReference.cache

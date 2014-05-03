@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 6 Dec 2011 Morning\Practice1@6Dec2011Morning\Tribonacci\bin\Debug\Tribonacci.exe.config
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 6 Dec 2011 Morning\Practice1@6Dec2011Morning\Tribonacci\bin\Debug\Tribonacci.exe
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 6 Dec 2011 Morning\Practice1@6Dec2011Morning\Tribonacci\bin\Debug\Tribonacci.pdb
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 6 Dec 2011 Morning\Practice1@6Dec2011Morning\Tribonacci\obj\Debug\Tribonacci.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 6 Dec 2011 Morning\Practice1@6Dec2011Morning\Tribonacci\obj\Debug\Tribonacci.exe
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 6 Dec 2011 Morning\Practice1@6Dec2011Morning\Tribonacci\obj\Debug\Tribonacci.pdb

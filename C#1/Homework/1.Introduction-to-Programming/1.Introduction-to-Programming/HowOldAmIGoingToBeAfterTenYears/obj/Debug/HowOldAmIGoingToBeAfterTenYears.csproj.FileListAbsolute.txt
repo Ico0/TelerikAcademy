@@ -1,0 +1,15 @@
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\Introduction-to-Programming\HowOldAmIGoingToBeAfterTenYears\bin\Debug\HowOldAmIGoingToBeAfterTenYears.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\Introduction-to-Programming\HowOldAmIGoingToBeAfterTenYears\bin\Debug\HowOldAmIGoingToBeAfterTenYears.exe
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\Introduction-to-Programming\HowOldAmIGoingToBeAfterTenYears\bin\Debug\HowOldAmIGoingToBeAfterTenYears.pdb
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\Introduction-to-Programming\HowOldAmIGoingToBeAfterTenYears\obj\Debug\HowOldAmIGoingToBeAfterTenYears.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\Introduction-to-Programming\HowOldAmIGoingToBeAfterTenYears\obj\Debug\HowOldAmIGoingToBeAfterTenYears.exe
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\Introduction-to-Programming\HowOldAmIGoingToBeAfterTenYears\obj\Debug\HowOldAmIGoingToBeAfterTenYears.pdb
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\HowOldAmIGoingToBeAfterTenYears\bin\Debug\HowOldAmIGoingToBeAfterTenYears.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\HowOldAmIGoingToBeAfterTenYears\obj\Debug\HowOldAmIGoingToBeAfterTenYears.exe
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\HowOldAmIGoingToBeAfterTenYears\obj\Debug\HowOldAmIGoingToBeAfterTenYears.pdb
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\HowOldAmIGoingToBeAfterTenYears\bin\Debug\HowOldAmIGoingToBeAfterTenYears.exe
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\HowOldAmIGoingToBeAfterTenYears\bin\Debug\HowOldAmIGoingToBeAfterTenYears.pdb
+D:\Drugi\TELERIK\C#1\Domashno\Introduction-to-Programming\HowOldAmIGoingToBeAfterTenYears\obj\Debug\HowOldAmIGoingToBeAfterTenYears.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Domashno\1.Introduction-to-Programming\HowOldAmIGoingToBeAfterTenYears\bin\Debug\HowOldAmIGoingToBeAfterTenYears.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\1.Introduction-to-Programming\HowOldAmIGoingToBeAfterTenYears\obj\Debug\HowOldAmIGoingToBeAfterTenYears.exe
+D:\Drugi\TELERIK\C#1\Domashno\1.Introduction-to-Programming\HowOldAmIGoingToBeAfterTenYears\obj\Debug\HowOldAmIGoingToBeAfterTenYears.pdb

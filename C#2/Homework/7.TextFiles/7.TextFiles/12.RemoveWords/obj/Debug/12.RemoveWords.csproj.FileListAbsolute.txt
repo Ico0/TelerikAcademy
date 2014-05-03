@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\12.RemoveWords\bin\Debug\12.RemoveWords.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\12.RemoveWords\bin\Debug\12.RemoveWords.exe
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\12.RemoveWords\bin\Debug\12.RemoveWords.pdb
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\12.RemoveWords\obj\Debug\12.RemoveWords.exe
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\12.RemoveWords\obj\Debug\12.RemoveWords.pdb

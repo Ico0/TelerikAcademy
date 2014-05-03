@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\8.Trapezoid\bin\Debug\8.Trapezoid.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\8.Trapezoid\bin\Debug\8.Trapezoid.exe
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\8.Trapezoid\bin\Debug\8.Trapezoid.pdb
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\8.Trapezoid\obj\Debug\8.Trapezoid.exe
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\8.Trapezoid\obj\Debug\8.Trapezoid.pdb

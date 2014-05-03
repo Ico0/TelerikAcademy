@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\Hexadecimal\bin\Debug\Hexadecimal.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\Hexadecimal\bin\Debug\Hexadecimal.exe
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\Hexadecimal\bin\Debug\Hexadecimal.pdb
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\Hexadecimal\obj\Debug\Hexadecimal.exe
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\Hexadecimal\obj\Debug\Hexadecimal.pdb

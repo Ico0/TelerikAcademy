@@ -1,0 +1,8 @@
+D:\Drugi\TELERIK\C#OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\02.ExtensionsToIEnumerable\bin\Debug\02.ExtensionsToIEnumerable.exe.config
+D:\Drugi\TELERIK\C#OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\02.ExtensionsToIEnumerable\bin\Debug\02.ExtensionsToIEnumerable.exe
+D:\Drugi\TELERIK\C#OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\02.ExtensionsToIEnumerable\bin\Debug\02.ExtensionsToIEnumerable.pdb
+D:\Drugi\TELERIK\C#OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\02.ExtensionsToIEnumerable\obj\Debug\02.ExtensionsToIEnumerable.exe
+D:\Drugi\TELERIK\C#OOP\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\02.ExtensionsToIEnumerable\obj\Debug\02.ExtensionsToIEnumerable.pdb
+D:\Drugi\TELERIK\C#OOP\Domashni\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\02.ExtensionsToIEnumerable\bin\Debug\02.ExtensionsToIEnumerable.exe.config
+D:\Drugi\TELERIK\C#OOP\Domashni\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\02.ExtensionsToIEnumerable\obj\Debug\02.ExtensionsToIEnumerable.exe
+D:\Drugi\TELERIK\C#OOP\Domashni\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\02.ExtensionsToIEnumerable\obj\Debug\02.ExtensionsToIEnumerable.pdb

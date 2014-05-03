@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\11.PlayingWithNumbers\bin\Debug\11.PlayingWithNumbers.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\11.PlayingWithNumbers\bin\Debug\11.PlayingWithNumbers.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\11.PlayingWithNumbers\bin\Debug\11.PlayingWithNumbers.pdb
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\11.PlayingWithNumbers\obj\Debug\11.PlayingWithNumbers.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\11.PlayingWithNumbers\obj\Debug\11.PlayingWithNumbers.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\11.PlayingWithNumbers\obj\Debug\11.PlayingWithNumbers.pdb

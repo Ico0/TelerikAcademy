@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\10.UnicodeOutput\bin\Debug\10.UnicodeOutput.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\10.UnicodeOutput\bin\Debug\10.UnicodeOutput.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\10.UnicodeOutput\bin\Debug\10.UnicodeOutput.pdb
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\10.UnicodeOutput\obj\Debug\10.UnicodeOutput.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\10.UnicodeOutput\obj\Debug\10.UnicodeOutput.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\10.UnicodeOutput\obj\Debug\10.UnicodeOutput.pdb

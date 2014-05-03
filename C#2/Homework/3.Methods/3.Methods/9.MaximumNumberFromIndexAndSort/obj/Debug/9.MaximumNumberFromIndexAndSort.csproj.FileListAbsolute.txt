@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\9.MaximumNumberFromIndexAndSort\bin\Debug\9.MaximumNumberFromIndexAndSort.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\9.MaximumNumberFromIndexAndSort\bin\Debug\9.MaximumNumberFromIndexAndSort.exe
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\9.MaximumNumberFromIndexAndSort\bin\Debug\9.MaximumNumberFromIndexAndSort.pdb
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\9.MaximumNumberFromIndexAndSort\obj\Debug\9.MaximumNumberFromIndexAndSort.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\9.MaximumNumberFromIndexAndSort\obj\Debug\9.MaximumNumberFromIndexAndSort.exe
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\9.MaximumNumberFromIndexAndSort\obj\Debug\9.MaximumNumberFromIndexAndSort.pdb

@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\15.AnyType\bin\Debug\15.AnyType.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\15.AnyType\bin\Debug\15.AnyType.exe
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\15.AnyType\bin\Debug\15.AnyType.pdb
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\15.AnyType\obj\Debug\15.AnyType.exe
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\15.AnyType\obj\Debug\15.AnyType.pdb

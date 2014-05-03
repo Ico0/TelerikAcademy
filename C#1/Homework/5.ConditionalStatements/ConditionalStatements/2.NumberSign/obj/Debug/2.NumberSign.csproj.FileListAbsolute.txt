@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\2.NumberSign\bin\Debug\2.NumberSign.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\2.NumberSign\bin\Debug\2.NumberSign.exe
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\2.NumberSign\bin\Debug\2.NumberSign.pdb
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\2.NumberSign\obj\Debug\2.NumberSign.exe
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\2.NumberSign\obj\Debug\2.NumberSign.pdb

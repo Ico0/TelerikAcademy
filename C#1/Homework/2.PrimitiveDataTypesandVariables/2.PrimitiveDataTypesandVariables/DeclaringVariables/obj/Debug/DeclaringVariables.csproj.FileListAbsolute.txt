@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\DeclaringVariables\bin\Debug\DeclaringVariables.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\DeclaringVariables\bin\Debug\DeclaringVariables.exe
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\DeclaringVariables\bin\Debug\DeclaringVariables.pdb
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\DeclaringVariables\obj\Debug\DeclaringVariables.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\DeclaringVariables\obj\Debug\DeclaringVariables.exe
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\DeclaringVariables\obj\Debug\DeclaringVariables.pdb

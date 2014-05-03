@@ -1,0 +1,9 @@
+D:\Drugi\TELERIK\C#OOP\DefiningClassesPart2\DefiningClassesPart2\02.GenericList\bin\Debug\02.GenericList.exe.config
+D:\Drugi\TELERIK\C#OOP\DefiningClassesPart2\DefiningClassesPart2\02.GenericList\bin\Debug\02.GenericList.exe
+D:\Drugi\TELERIK\C#OOP\DefiningClassesPart2\DefiningClassesPart2\02.GenericList\bin\Debug\02.GenericList.pdb
+D:\Drugi\TELERIK\C#OOP\DefiningClassesPart2\DefiningClassesPart2\02.GenericList\obj\Debug\02.GenericList.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#OOP\DefiningClassesPart2\DefiningClassesPart2\02.GenericList\obj\Debug\02.GenericList.exe
+D:\Drugi\TELERIK\C#OOP\DefiningClassesPart2\DefiningClassesPart2\02.GenericList\obj\Debug\02.GenericList.pdb
+D:\Drugi\TELERIK\C#OOP\Domashni\DefiningClassesPart2\DefiningClassesPart2\02.GenericList\bin\Debug\02.GenericList.exe.config
+D:\Drugi\TELERIK\C#OOP\Domashni\DefiningClassesPart2\DefiningClassesPart2\02.GenericList\obj\Debug\02.GenericList.exe
+D:\Drugi\TELERIK\C#OOP\Domashni\DefiningClassesPart2\DefiningClassesPart2\02.GenericList\obj\Debug\02.GenericList.pdb

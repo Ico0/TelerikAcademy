@@ -1,0 +1,8 @@
+D:\Drugi\TELERIK\CSS\Kontrolni\CSS-Styling-Exams-Solutions-Feb-2013-Variant-2\Variant2\Variant2\bin\Variant2.dll
+D:\Drugi\TELERIK\CSS\Kontrolni\CSS-Styling-Exams-Solutions-Feb-2013-Variant-2\Variant2\Variant2\bin\Variant2.pdb
+D:\Drugi\TELERIK\CSS\Kontrolni\CSS-Styling-Exams-Solutions-Feb-2013-Variant-2\Variant2\Variant2\bin\Variant2.xml
+D:\Drugi\TELERIK\CSS\Kontrolni\CSS-Styling-Exams-Solutions-Feb-2013-Variant-2\Variant2\Variant2\obj\Debug\Variant2.Resources.resources
+D:\Drugi\TELERIK\CSS\Kontrolni\CSS-Styling-Exams-Solutions-Feb-2013-Variant-2\Variant2\Variant2\obj\Debug\Task1.vbproj.GenerateResource.Cache
+D:\Drugi\TELERIK\CSS\Kontrolni\CSS-Styling-Exams-Solutions-Feb-2013-Variant-2\Variant2\Variant2\obj\Debug\Variant2.dll
+D:\Drugi\TELERIK\CSS\Kontrolni\CSS-Styling-Exams-Solutions-Feb-2013-Variant-2\Variant2\Variant2\obj\Debug\Variant2.xml
+D:\Drugi\TELERIK\CSS\Kontrolni\CSS-Styling-Exams-Solutions-Feb-2013-Variant-2\Variant2\Variant2\obj\Debug\Variant2.pdb

@@ -1,0 +1,12 @@
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 29 Dec 2012\Exam29Dec2012\Poker\bin\Debug\Poker.exe.config
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 29 Dec 2012\Exam29Dec2012\Poker\bin\Debug\Poker.exe
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 29 Dec 2012\Exam29Dec2012\Poker\bin\Debug\Poker.pdb
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 29 Dec 2012\Exam29Dec2012\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 29 Dec 2012\Exam29Dec2012\Poker\obj\Debug\Poker.exe
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 29 Dec 2012\Exam29Dec2012\Poker\obj\Debug\Poker.pdb
+D:\Drugi\TELERIK\C#1\Kontrolni\Practice Telerik Academy Exam 1 @ 29 Dec 2012\Exam29Dec2012\Poker\bin\Debug\Poker.exe.config
+D:\Drugi\TELERIK\C#1\Kontrolni\Practice Telerik Academy Exam 1 @ 29 Dec 2012\Exam29Dec2012\Poker\obj\Debug\Poker.exe
+D:\Drugi\TELERIK\C#1\Kontrolni\Practice Telerik Academy Exam 1 @ 29 Dec 2012\Exam29Dec2012\Poker\obj\Debug\Poker.pdb
+D:\Drugi\TELERIK\C#1\Kontrolni\Practice Telerik Academy Exam 1 @ 29 Dec 2012\Exam29Dec2012\Poker\bin\Debug\Poker.exe
+D:\Drugi\TELERIK\C#1\Kontrolni\Practice Telerik Academy Exam 1 @ 29 Dec 2012\Exam29Dec2012\Poker\bin\Debug\Poker.pdb
+D:\Drugi\TELERIK\C#1\Kontrolni\Practice Telerik Academy Exam 1 @ 29 Dec 2012\Exam29Dec2012\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache

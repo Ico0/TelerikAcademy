@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@5Feb2013\5Feb2013\1.Durankulak Numbers\bin\Debug\1.Durankulak Numbers.exe.config
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@5Feb2013\5Feb2013\1.Durankulak Numbers\bin\Debug\1.Durankulak Numbers.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@5Feb2013\5Feb2013\1.Durankulak Numbers\bin\Debug\1.Durankulak Numbers.pdb
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@5Feb2013\5Feb2013\1.Durankulak Numbers\obj\Debug\1.DurankulakNumbers.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@5Feb2013\5Feb2013\1.Durankulak Numbers\obj\Debug\1.Durankulak Numbers.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@5Feb2013\5Feb2013\1.Durankulak Numbers\obj\Debug\1.Durankulak Numbers.pdb

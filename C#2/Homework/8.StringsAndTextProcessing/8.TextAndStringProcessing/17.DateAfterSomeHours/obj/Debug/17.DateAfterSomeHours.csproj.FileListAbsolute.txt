@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\17.DateAfterSomeHours\bin\Debug\17.DateAfterSomeHours.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\17.DateAfterSomeHours\bin\Debug\17.DateAfterSomeHours.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\17.DateAfterSomeHours\bin\Debug\17.DateAfterSomeHours.pdb
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\17.DateAfterSomeHours\obj\Debug\17.DateAfterSomeHours.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\17.DateAfterSomeHours\obj\Debug\17.DateAfterSomeHours.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\17.DateAfterSomeHours\obj\Debug\17.DateAfterSomeHours.pdb

@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\AssignUnicode\bin\Debug\AssignUnicode.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\AssignUnicode\bin\Debug\AssignUnicode.exe
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\AssignUnicode\bin\Debug\AssignUnicode.pdb
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\AssignUnicode\obj\Debug\AssignUnicode.exe
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\AssignUnicode\obj\Debug\AssignUnicode.pdb

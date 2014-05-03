@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\05.UpperCase\bin\Debug\05.UpperCase.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\05.UpperCase\bin\Debug\05.UpperCase.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\05.UpperCase\bin\Debug\05.UpperCase.pdb
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\05.UpperCase\obj\Debug\05.UpperCase.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\05.UpperCase\obj\Debug\05.UpperCase.pdb

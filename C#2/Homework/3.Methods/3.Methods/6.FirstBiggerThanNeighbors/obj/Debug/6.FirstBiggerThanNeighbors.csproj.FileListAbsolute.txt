@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\6.FirstBiggerThanNeighbors\bin\Debug\6.FirstBiggerThanNeighbors.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\6.FirstBiggerThanNeighbors\bin\Debug\6.FirstBiggerThanNeighbors.exe
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\6.FirstBiggerThanNeighbors\bin\Debug\6.FirstBiggerThanNeighbors.pdb
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\6.FirstBiggerThanNeighbors\obj\Debug\6.FirstBiggerThanNeighbors.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\6.FirstBiggerThanNeighbors\obj\Debug\6.FirstBiggerThanNeighbors.exe
+D:\Drugi\TELERIK\C#2\Domashno\3.Methods\3.Methods\6.FirstBiggerThanNeighbors\obj\Debug\6.FirstBiggerThanNeighbors.pdb

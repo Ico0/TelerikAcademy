@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@7Feb2012\TelerikAcademyExam2@7Feb2012\3.Cooking\bin\Debug\3.Cooking.exe.config
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@7Feb2012\TelerikAcademyExam2@7Feb2012\3.Cooking\bin\Debug\3.Cooking.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@7Feb2012\TelerikAcademyExam2@7Feb2012\3.Cooking\bin\Debug\3.Cooking.pdb
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@7Feb2012\TelerikAcademyExam2@7Feb2012\3.Cooking\obj\Debug\3.Cooking.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@7Feb2012\TelerikAcademyExam2@7Feb2012\3.Cooking\obj\Debug\3.Cooking.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@7Feb2012\TelerikAcademyExam2@7Feb2012\3.Cooking\obj\Debug\3.Cooking.pdb

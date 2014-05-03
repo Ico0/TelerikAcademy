@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\WithAndWithoutQuotedStrings\bin\Debug\WithAndWithoutQuotedStrings.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\WithAndWithoutQuotedStrings\bin\Debug\WithAndWithoutQuotedStrings.exe
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\WithAndWithoutQuotedStrings\bin\Debug\WithAndWithoutQuotedStrings.pdb
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\WithAndWithoutQuotedStrings\obj\Debug\WithAndWithoutQuotedStrings.exe
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\WithAndWithoutQuotedStrings\obj\Debug\WithAndWithoutQuotedStrings.pdb

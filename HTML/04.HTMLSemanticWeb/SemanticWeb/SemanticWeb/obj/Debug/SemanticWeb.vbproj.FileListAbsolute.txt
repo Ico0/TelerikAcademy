@@ -1,0 +1,8 @@
+D:\Drugi\TELERIK\HTML\HTML.Semantic.Web\SemanticWeb\SemanticWeb\bin\SemanticWeb.dll
+D:\Drugi\TELERIK\HTML\HTML.Semantic.Web\SemanticWeb\SemanticWeb\bin\SemanticWeb.pdb
+D:\Drugi\TELERIK\HTML\HTML.Semantic.Web\SemanticWeb\SemanticWeb\bin\SemanticWeb.xml
+D:\Drugi\TELERIK\HTML\HTML.Semantic.Web\SemanticWeb\SemanticWeb\obj\Debug\SemanticWeb.Resources.resources
+D:\Drugi\TELERIK\HTML\HTML.Semantic.Web\SemanticWeb\SemanticWeb\obj\Debug\SemanticWeb.vbproj.GenerateResource.Cache
+D:\Drugi\TELERIK\HTML\HTML.Semantic.Web\SemanticWeb\SemanticWeb\obj\Debug\SemanticWeb.dll
+D:\Drugi\TELERIK\HTML\HTML.Semantic.Web\SemanticWeb\SemanticWeb\obj\Debug\SemanticWeb.xml
+D:\Drugi\TELERIK\HTML\HTML.Semantic.Web\SemanticWeb\SemanticWeb\obj\Debug\SemanticWeb.pdb

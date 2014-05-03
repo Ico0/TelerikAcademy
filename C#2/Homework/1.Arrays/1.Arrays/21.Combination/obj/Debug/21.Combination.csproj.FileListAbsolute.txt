@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\21.Combination\bin\Debug\21.Combination.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\21.Combination\bin\Debug\21.Combination.exe
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\21.Combination\bin\Debug\21.Combination.pdb
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\21.Combination\obj\Debug\21.Combination.exe
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\21.Combination\obj\Debug\21.Combination.pdb

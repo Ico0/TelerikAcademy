@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\20.Palindromes\bin\Debug\20.Palindromes.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\20.Palindromes\bin\Debug\20.Palindromes.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\20.Palindromes\bin\Debug\20.Palindromes.pdb
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\20.Palindromes\obj\Debug\20.Palindromes.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\20.Palindromes\obj\Debug\20.Palindromes.pdb

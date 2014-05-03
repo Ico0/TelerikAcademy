@@ -1,0 +1,8 @@
+D:\Drugi\TELERIK\HTML\HTML.Forms.Frames\FormsAndFrames\FormsAndFrames\bin\FormsAndFrames.dll
+D:\Drugi\TELERIK\HTML\HTML.Forms.Frames\FormsAndFrames\FormsAndFrames\bin\FormsAndFrames.pdb
+D:\Drugi\TELERIK\HTML\HTML.Forms.Frames\FormsAndFrames\FormsAndFrames\bin\FormsAndFrames.xml
+D:\Drugi\TELERIK\HTML\HTML.Forms.Frames\FormsAndFrames\FormsAndFrames\obj\Debug\FormsAndFrames.Resources.resources
+D:\Drugi\TELERIK\HTML\HTML.Forms.Frames\FormsAndFrames\FormsAndFrames\obj\Debug\FormsAndFrames.vbproj.GenerateResource.Cache
+D:\Drugi\TELERIK\HTML\HTML.Forms.Frames\FormsAndFrames\FormsAndFrames\obj\Debug\FormsAndFrames.dll
+D:\Drugi\TELERIK\HTML\HTML.Forms.Frames\FormsAndFrames\FormsAndFrames\obj\Debug\FormsAndFrames.xml
+D:\Drugi\TELERIK\HTML\HTML.Forms.Frames\FormsAndFrames\FormsAndFrames\obj\Debug\FormsAndFrames.pdb

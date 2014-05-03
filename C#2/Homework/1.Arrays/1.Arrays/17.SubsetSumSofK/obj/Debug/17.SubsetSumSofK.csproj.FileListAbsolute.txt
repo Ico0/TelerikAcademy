@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\17.SubsetSumSofK\bin\Debug\17.SubsetSumSofK.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\17.SubsetSumSofK\bin\Debug\17.SubsetSumSofK.exe
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\17.SubsetSumSofK\bin\Debug\17.SubsetSumSofK.pdb
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\17.SubsetSumSofK\obj\Debug\17.SubsetSumSofK.exe
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\17.SubsetSumSofK\obj\Debug\17.SubsetSumSofK.pdb

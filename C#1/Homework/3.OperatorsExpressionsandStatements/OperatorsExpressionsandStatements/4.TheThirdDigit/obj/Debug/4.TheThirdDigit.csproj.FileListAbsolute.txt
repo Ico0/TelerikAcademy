@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\4.TheThirdDigit\bin\Debug\4.TheThirdDigit.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\4.TheThirdDigit\bin\Debug\4.TheThirdDigit.exe
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\4.TheThirdDigit\bin\Debug\4.TheThirdDigit.pdb
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\4.TheThirdDigit\obj\Debug\4.TheThirdDigit.exe
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\4.TheThirdDigit\obj\Debug\4.TheThirdDigit.pdb
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\4.TheThirdDigit\obj\Debug\4.TheThirdDigit.csprojResolveAssemblyReference.cache

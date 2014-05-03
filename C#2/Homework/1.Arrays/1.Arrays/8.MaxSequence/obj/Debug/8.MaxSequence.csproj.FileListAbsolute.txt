@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\8.MaxSequence\bin\Debug\8.MaxSequence.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\8.MaxSequence\bin\Debug\8.MaxSequence.exe
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\8.MaxSequence\bin\Debug\8.MaxSequence.pdb
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\8.MaxSequence\obj\Debug\8.MaxSequence.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\8.MaxSequence\obj\Debug\8.MaxSequence.exe
+D:\Drugi\TELERIK\C#2\Domashno\1.Arrays\1.Arrays\8.MaxSequence\obj\Debug\8.MaxSequence.pdb

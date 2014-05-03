@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\Sum3Numbers\bin\Debug\Sum3Numbers.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\Sum3Numbers\bin\Debug\Sum3Numbers.exe
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\Sum3Numbers\bin\Debug\Sum3Numbers.pdb
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\Sum3Numbers\obj\Debug\Sum3Numbers.exe
+D:\Drugi\TELERIK\C#1\Domashno\4.ConsoleInputOutput\ConsoleInputOutput\Sum3Numbers\obj\Debug\Sum3Numbers.pdb

@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\6.RealRoots\bin\Debug\6.RealRoots.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\6.RealRoots\bin\Debug\6.RealRoots.exe
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\6.RealRoots\bin\Debug\6.RealRoots.pdb
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\6.RealRoots\obj\Debug\6.RealRoots.exe
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\6.RealRoots\obj\Debug\6.RealRoots.pdb

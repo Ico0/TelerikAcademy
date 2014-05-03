@@ -1,0 +1,9 @@
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\13.ReverseSentence\bin\Debug\13.ReverseSentence.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\13.ReverseSentence\bin\Debug\13.ReverseSentence.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\13.ReverseSentence\bin\Debug\13.ReverseSentence.pdb
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\13.ReverseSentence\obj\Debug\13.ReverseSentence.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\13.ReverseSentence\obj\Debug\13.ReverseSentence.pdb
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\13.ReverseSentence\obj\Debug\13.ReverseSentence.csprojResolveAssemblyReference.cache
+E:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\13.ReverseSentence\bin\Debug\13.ReverseSentence.exe.config
+E:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\13.ReverseSentence\obj\Debug\13.ReverseSentence.exe
+E:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\13.ReverseSentence\obj\Debug\13.ReverseSentence.pdb

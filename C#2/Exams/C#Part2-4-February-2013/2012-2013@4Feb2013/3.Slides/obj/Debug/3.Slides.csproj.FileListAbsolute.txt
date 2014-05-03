@@ -1,0 +1,9 @@
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@6Feb2012\2012-2013@4Feb2013\3.Slides\bin\Debug\3.Slides.exe.config
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@6Feb2012\2012-2013@4Feb2013\3.Slides\bin\Debug\3.Slides.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@6Feb2012\2012-2013@4Feb2013\3.Slides\bin\Debug\3.Slides.pdb
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@6Feb2012\2012-2013@4Feb2013\3.Slides\obj\Debug\3.Slides.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@6Feb2012\2012-2013@4Feb2013\3.Slides\obj\Debug\3.Slides.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@6Feb2012\2012-2013@4Feb2013\3.Slides\obj\Debug\3.Slides.pdb
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@4Feb2013\2012-2013@4Feb2013\3.Slides\bin\Debug\3.Slides.exe.config
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@4Feb2013\2012-2013@4Feb2013\3.Slides\obj\Debug\3.Slides.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@4Feb2013\2012-2013@4Feb2013\3.Slides\obj\Debug\3.Slides.pdb

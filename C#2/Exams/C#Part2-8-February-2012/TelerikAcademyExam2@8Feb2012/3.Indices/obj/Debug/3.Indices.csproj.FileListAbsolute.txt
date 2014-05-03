@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@8Feb2012\TelerikAcademyExam2@8Feb2012\3.Indices\bin\Debug\3.Indices.exe.config
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@8Feb2012\TelerikAcademyExam2@8Feb2012\3.Indices\bin\Debug\3.Indices.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@8Feb2012\TelerikAcademyExam2@8Feb2012\3.Indices\bin\Debug\3.Indices.pdb
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@8Feb2012\TelerikAcademyExam2@8Feb2012\3.Indices\obj\Debug\3.Indices.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@8Feb2012\TelerikAcademyExam2@8Feb2012\3.Indices\obj\Debug\3.Indices.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@8Feb2012\TelerikAcademyExam2@8Feb2012\3.Indices\obj\Debug\3.Indices.pdb

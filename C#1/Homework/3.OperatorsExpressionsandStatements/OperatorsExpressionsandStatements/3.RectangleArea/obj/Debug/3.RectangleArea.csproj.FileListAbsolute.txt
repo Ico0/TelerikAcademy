@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\3.RectangleArea\bin\Debug\3.RectangleArea.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\3.RectangleArea\bin\Debug\3.RectangleArea.exe
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\3.RectangleArea\bin\Debug\3.RectangleArea.pdb
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\3.RectangleArea\obj\Debug\3.RectangleArea.exe
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\3.RectangleArea\obj\Debug\3.RectangleArea.pdb
+D:\Drugi\TELERIK\C#1\Domashno\3.OperatorsExpressionsandStatements\OperatorsExpressionsandStatements\3.RectangleArea\obj\Debug\3.RectangleArea.csprojResolveAssemblyReference.cache

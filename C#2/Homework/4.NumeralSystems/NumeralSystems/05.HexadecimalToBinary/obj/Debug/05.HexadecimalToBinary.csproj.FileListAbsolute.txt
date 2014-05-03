@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\4.NumeralSystems\NumeralSystems\05.HexadecimalToBinary\bin\Debug\05.HexadecimalToBinary.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\4.NumeralSystems\NumeralSystems\05.HexadecimalToBinary\bin\Debug\05.HexadecimalToBinary.exe
+D:\Drugi\TELERIK\C#2\Domashno\4.NumeralSystems\NumeralSystems\05.HexadecimalToBinary\bin\Debug\05.HexadecimalToBinary.pdb
+D:\Drugi\TELERIK\C#2\Domashno\4.NumeralSystems\NumeralSystems\05.HexadecimalToBinary\obj\Debug\05.HexadecimalToBinary.exe
+D:\Drugi\TELERIK\C#2\Domashno\4.NumeralSystems\NumeralSystems\05.HexadecimalToBinary\obj\Debug\05.HexadecimalToBinary.pdb
+D:\Drugi\TELERIK\C#2\Domashno\4.NumeralSystems\NumeralSystems\05.HexadecimalToBinary\obj\Debug\05.HexadecimalToBinary.csprojResolveAssemblyReference.cache

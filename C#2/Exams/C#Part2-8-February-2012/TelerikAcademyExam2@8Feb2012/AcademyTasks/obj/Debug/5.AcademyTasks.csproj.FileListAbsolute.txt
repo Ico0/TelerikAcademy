@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@8Feb2012\TelerikAcademyExam2@8Feb2012\AcademyTasks\bin\Debug\AcademyTasks.exe.config
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@8Feb2012\TelerikAcademyExam2@8Feb2012\AcademyTasks\bin\Debug\AcademyTasks.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@8Feb2012\TelerikAcademyExam2@8Feb2012\AcademyTasks\bin\Debug\AcademyTasks.pdb
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@8Feb2012\TelerikAcademyExam2@8Feb2012\AcademyTasks\obj\Debug\AcademyTasks.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@8Feb2012\TelerikAcademyExam2@8Feb2012\AcademyTasks\obj\Debug\AcademyTasks.pdb
+D:\Drugi\TELERIK\C#2\Kontrolni\TelerikAcademyExam2@8Feb2012\TelerikAcademyExam2@8Feb2012\AcademyTasks\obj\Debug\5.AcademyTasks.csprojResolveAssemblyReference.cache

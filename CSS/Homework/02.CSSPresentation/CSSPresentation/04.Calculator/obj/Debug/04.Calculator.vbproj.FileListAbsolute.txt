@@ -1,0 +1,8 @@
+D:\Drugi\TELERIK\CSS\CSSPresentation\CSSPresentation\04.Calculator\bin\04.Calculator.dll
+D:\Drugi\TELERIK\CSS\CSSPresentation\CSSPresentation\04.Calculator\bin\04.Calculator.pdb
+D:\Drugi\TELERIK\CSS\CSSPresentation\CSSPresentation\04.Calculator\bin\04.Calculator.xml
+D:\Drugi\TELERIK\CSS\CSSPresentation\CSSPresentation\04.Calculator\obj\Debug\_04.Calculator.Resources.resources
+D:\Drugi\TELERIK\CSS\CSSPresentation\CSSPresentation\04.Calculator\obj\Debug\04.Calculator.vbproj.GenerateResource.Cache
+D:\Drugi\TELERIK\CSS\CSSPresentation\CSSPresentation\04.Calculator\obj\Debug\04.Calculator.dll
+D:\Drugi\TELERIK\CSS\CSSPresentation\CSSPresentation\04.Calculator\obj\Debug\04.Calculator.xml
+D:\Drugi\TELERIK\CSS\CSSPresentation\CSSPresentation\04.Calculator\obj\Debug\04.Calculator.pdb

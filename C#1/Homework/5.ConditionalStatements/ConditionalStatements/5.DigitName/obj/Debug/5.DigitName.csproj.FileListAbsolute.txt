@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\5.DigitName\bin\Debug\5.DigitName.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\5.DigitName\bin\Debug\5.DigitName.exe
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\5.DigitName\bin\Debug\5.DigitName.pdb
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\5.DigitName\obj\Debug\5.DigitName.exe
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\5.DigitName\obj\Debug\5.DigitName.pdb

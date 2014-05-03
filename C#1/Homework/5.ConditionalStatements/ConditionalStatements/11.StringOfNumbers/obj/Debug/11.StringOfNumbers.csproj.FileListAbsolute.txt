@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\11.StringOfNumbers\bin\Debug\11.StringOfNumbers.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\11.StringOfNumbers\bin\Debug\11.StringOfNumbers.exe
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\11.StringOfNumbers\bin\Debug\11.StringOfNumbers.pdb
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\11.StringOfNumbers\obj\Debug\11.StringOfNumbers.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\11.StringOfNumbers\obj\Debug\11.StringOfNumbers.exe
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\11.StringOfNumbers\obj\Debug\11.StringOfNumbers.pdb

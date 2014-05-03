@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@11Feb2013\11Feb2013\3.KukataIsDancing\bin\Debug\3.KukataIsDancing.exe.config
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@11Feb2013\11Feb2013\3.KukataIsDancing\bin\Debug\3.KukataIsDancing.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@11Feb2013\11Feb2013\3.KukataIsDancing\bin\Debug\3.KukataIsDancing.pdb
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@11Feb2013\11Feb2013\3.KukataIsDancing\obj\Debug\3.KukataIsDancing.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@11Feb2013\11Feb2013\3.KukataIsDancing\obj\Debug\3.KukataIsDancing.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@11Feb2013\11Feb2013\3.KukataIsDancing\obj\Debug\3.KukataIsDancing.pdb

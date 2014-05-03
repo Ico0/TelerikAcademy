@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\11.DeleteWordsStartingWithSomtehing\bin\Debug\11.DeleteWordsStartingWithSomtehing.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\11.DeleteWordsStartingWithSomtehing\bin\Debug\11.DeleteWordsStartingWithSomtehing.exe
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\11.DeleteWordsStartingWithSomtehing\bin\Debug\11.DeleteWordsStartingWithSomtehing.pdb
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\11.DeleteWordsStartingWithSomtehing\obj\Debug\11.DeleteWordsStartingWithSomtehing.exe
+D:\Drugi\TELERIK\C#2\Domashno\7.TextFiles\7.TextFiles\11.DeleteWordsStartingWithSomtehing\obj\Debug\11.DeleteWordsStartingWithSomtehing.pdb

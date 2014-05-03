@@ -1,0 +1,7 @@
+No| Name          |
+1.| ASD           |220
+2.| HRISTO        |10
+3.| HUIO          |-40
+4.| IVAN          |-80
+5.| DASD          |-200
+6.| F             |-300

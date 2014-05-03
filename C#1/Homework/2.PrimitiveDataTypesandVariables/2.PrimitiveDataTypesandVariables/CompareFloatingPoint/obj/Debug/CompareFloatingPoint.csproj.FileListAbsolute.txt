@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\CompareFloatingPoint\bin\Debug\CompareFloatingPoint.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\CompareFloatingPoint\bin\Debug\CompareFloatingPoint.exe
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\CompareFloatingPoint\bin\Debug\CompareFloatingPoint.pdb
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\CompareFloatingPoint\obj\Debug\CompareFloatingPoint.exe
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\CompareFloatingPoint\obj\Debug\CompareFloatingPoint.pdb
+D:\Drugi\TELERIK\C#1\Domashno\2.PrimitiveDataTypesandVariables\CompareFloatingPoint\obj\Debug\CompareFloatingPoint.csprojResolveAssemblyReference.cache

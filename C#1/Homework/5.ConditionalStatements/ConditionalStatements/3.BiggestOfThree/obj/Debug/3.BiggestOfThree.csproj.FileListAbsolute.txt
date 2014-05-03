@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\3.BiggestOfThree\bin\Debug\3.BiggestOfThree.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\3.BiggestOfThree\bin\Debug\3.BiggestOfThree.exe
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\3.BiggestOfThree\bin\Debug\3.BiggestOfThree.pdb
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\3.BiggestOfThree\obj\Debug\3.BiggestOfThree.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\3.BiggestOfThree\obj\Debug\3.BiggestOfThree.exe
+D:\Drugi\TELERIK\C#1\Domashno\5.ConditionalStatements\ConditionalStatements\3.BiggestOfThree\obj\Debug\3.BiggestOfThree.pdb

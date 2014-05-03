@@ -1,0 +1,12 @@
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 27 Dec 2012\TelerikPractise27Dec2012\FormulaBit1\bin\Debug\FormulaBit1.exe.config
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 27 Dec 2012\TelerikPractise27Dec2012\FormulaBit1\bin\Debug\FormulaBit1.exe
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 27 Dec 2012\TelerikPractise27Dec2012\FormulaBit1\bin\Debug\FormulaBit1.pdb
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 27 Dec 2012\TelerikPractise27Dec2012\FormulaBit1\obj\Debug\FormulaBit1.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 27 Dec 2012\TelerikPractise27Dec2012\FormulaBit1\obj\Debug\FormulaBit1.exe
+D:\Drugi\TELERIK\C#1\Kontrolno\Practice Telerik Academy Exam 1 @ 27 Dec 2012\TelerikPractise27Dec2012\FormulaBit1\obj\Debug\FormulaBit1.pdb
+D:\Drugi\TELERIK\C#1\Kontrolni\Practice Telerik Academy Exam 1 @ 27 Dec 2012\TelerikPractise27Dec2012\FormulaBit1\bin\Debug\FormulaBit1.exe.config
+D:\Drugi\TELERIK\C#1\Kontrolni\Practice Telerik Academy Exam 1 @ 27 Dec 2012\TelerikPractise27Dec2012\FormulaBit1\obj\Debug\FormulaBit1.exe
+D:\Drugi\TELERIK\C#1\Kontrolni\Practice Telerik Academy Exam 1 @ 27 Dec 2012\TelerikPractise27Dec2012\FormulaBit1\obj\Debug\FormulaBit1.pdb
+D:\Drugi\TELERIK\C#1\Kontrolni\Practice Telerik Academy Exam 1 @ 27 Dec 2012\TelerikPractise27Dec2012\FormulaBit1\bin\Debug\FormulaBit1.exe
+D:\Drugi\TELERIK\C#1\Kontrolni\Practice Telerik Academy Exam 1 @ 27 Dec 2012\TelerikPractise27Dec2012\FormulaBit1\bin\Debug\FormulaBit1.pdb
+D:\Drugi\TELERIK\C#1\Kontrolni\Practice Telerik Academy Exam 1 @ 27 Dec 2012\TelerikPractise27Dec2012\FormulaBit1\obj\Debug\FormulaBit1.csprojResolveAssemblyReference.cache

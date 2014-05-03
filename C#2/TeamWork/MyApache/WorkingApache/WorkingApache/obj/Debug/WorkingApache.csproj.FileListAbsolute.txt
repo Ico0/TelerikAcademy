@@ -1,0 +1,15 @@
+D:\Drugi\TELERIK\C#2\TeamWork\TeamSnoopy\ConsoleGame\MyApache\WorkingApache\WorkingApache\bin\Debug\WorkingApache.exe.config
+D:\Drugi\TELERIK\C#2\TeamWork\TeamSnoopy\ConsoleGame\MyApache\WorkingApache\WorkingApache\obj\Debug\WorkingApache.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\TeamWork\TeamSnoopy\ConsoleGame\MyApache\WorkingApache\WorkingApache\bin\Debug\WorkingApache.exe
+D:\Drugi\TELERIK\C#2\TeamWork\TeamSnoopy\ConsoleGame\MyApache\WorkingApache\WorkingApache\bin\Debug\WorkingApache.pdb
+D:\Drugi\TELERIK\C#2\TeamWork\TeamSnoopy\ConsoleGame\MyApache\WorkingApache\WorkingApache\obj\Debug\WorkingApache.exe
+D:\Drugi\TELERIK\C#2\TeamWork\TeamSnoopy\ConsoleGame\MyApache\WorkingApache\WorkingApache\obj\Debug\WorkingApache.pdb
+D:\Drugi\TELERIK\C#2\TeamWork\MyApache\WorkingApache\WorkingApache\bin\Debug\WorkingApache.exe.config
+D:\Drugi\TELERIK\C#2\TeamWork\MyApache\WorkingApache\WorkingApache\obj\Debug\WorkingApache.exe
+D:\Drugi\TELERIK\C#2\TeamWork\MyApache\WorkingApache\WorkingApache\obj\Debug\WorkingApache.pdb
+D:\Drugi\TELERIK\C#2\TeamWork\MyApache\WorkingApache\WorkingApache\obj\Debug\WorkingApache.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\TeamWork\MyApache\WorkingApache\WorkingApache\bin\Debug\WorkingApache.exe
+D:\Drugi\TELERIK\C#2\TeamWork\MyApache\WorkingApache\WorkingApache\bin\Debug\WorkingApache.pdb
+E:\Drugi\TELERIK\C#2\TeamWork\MyApache\WorkingApache\WorkingApache\bin\Debug\WorkingApache.exe.config
+E:\Drugi\TELERIK\C#2\TeamWork\MyApache\WorkingApache\WorkingApache\obj\Debug\WorkingApache.exe
+E:\Drugi\TELERIK\C#2\TeamWork\MyApache\WorkingApache\WorkingApache\obj\Debug\WorkingApache.pdb

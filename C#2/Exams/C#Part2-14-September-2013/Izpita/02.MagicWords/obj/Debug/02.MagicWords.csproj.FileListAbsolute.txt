@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Kontrolni\My.Izpit\Izpita\02.MagicWords\bin\Debug\02.MagicWords.exe.config
+D:\Drugi\TELERIK\C#2\Kontrolni\My.Izpit\Izpita\02.MagicWords\bin\Debug\02.MagicWords.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\My.Izpit\Izpita\02.MagicWords\bin\Debug\02.MagicWords.pdb
+D:\Drugi\TELERIK\C#2\Kontrolni\My.Izpit\Izpita\02.MagicWords\obj\Debug\02.MagicWords.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Kontrolni\My.Izpit\Izpita\02.MagicWords\obj\Debug\02.MagicWords.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\My.Izpit\Izpita\02.MagicWords\obj\Debug\02.MagicWords.pdb

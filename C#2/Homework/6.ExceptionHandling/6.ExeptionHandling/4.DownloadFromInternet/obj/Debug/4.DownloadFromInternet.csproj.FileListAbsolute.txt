@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Domashno\6.ExceptionHandling\6.ExeptionHandling\4.DownloadFromInternet\bin\Debug\4.DownloadFromInternet.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\6.ExceptionHandling\6.ExeptionHandling\4.DownloadFromInternet\bin\Debug\4.DownloadFromInternet.exe
+D:\Drugi\TELERIK\C#2\Domashno\6.ExceptionHandling\6.ExeptionHandling\4.DownloadFromInternet\bin\Debug\4.DownloadFromInternet.pdb
+D:\Drugi\TELERIK\C#2\Domashno\6.ExceptionHandling\6.ExeptionHandling\4.DownloadFromInternet\obj\Debug\4.DownloadFromInternet.exe
+D:\Drugi\TELERIK\C#2\Domashno\6.ExceptionHandling\6.ExeptionHandling\4.DownloadFromInternet\obj\Debug\4.DownloadFromInternet.pdb
+D:\Drugi\TELERIK\C#2\Domashno\6.ExceptionHandling\6.ExeptionHandling\4.DownloadFromInternet\obj\Debug\4.DownloadFromInternet.csprojResolveAssemblyReference.cache

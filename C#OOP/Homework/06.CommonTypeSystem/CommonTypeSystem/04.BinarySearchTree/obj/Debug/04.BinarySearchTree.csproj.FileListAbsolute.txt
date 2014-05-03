@@ -1,0 +1,12 @@
+D:\Drugi\TELERIK\C#OOP\CommonTypeSystem\CommonTypeSystem\04.BinarySearchTree\bin\Debug\04.BinarySearchTree.exe.config
+D:\Drugi\TELERIK\C#OOP\CommonTypeSystem\CommonTypeSystem\04.BinarySearchTree\obj\Debug\04.BinarySearchTree.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#OOP\CommonTypeSystem\CommonTypeSystem\04.BinarySearchTree\bin\Debug\04.BinarySearchTree.exe
+D:\Drugi\TELERIK\C#OOP\CommonTypeSystem\CommonTypeSystem\04.BinarySearchTree\bin\Debug\04.BinarySearchTree.pdb
+D:\Drugi\TELERIK\C#OOP\CommonTypeSystem\CommonTypeSystem\04.BinarySearchTree\obj\Debug\04.BinarySearchTree.exe
+D:\Drugi\TELERIK\C#OOP\CommonTypeSystem\CommonTypeSystem\04.BinarySearchTree\obj\Debug\04.BinarySearchTree.pdb
+D:\Drugi\TELERIK\C#OOP\Domashni\CommonTypeSystem\CommonTypeSystem\04.BinarySearchTree\bin\Debug\04.BinarySearchTree.exe.config
+D:\Drugi\TELERIK\C#OOP\Domashni\CommonTypeSystem\CommonTypeSystem\04.BinarySearchTree\obj\Debug\04.BinarySearchTree.exe
+D:\Drugi\TELERIK\C#OOP\Domashni\CommonTypeSystem\CommonTypeSystem\04.BinarySearchTree\obj\Debug\04.BinarySearchTree.pdb
+D:\Drugi\TELERIK\C#OOP\Domashni\CommonTypeSystem\CommonTypeSystem\04.BinarySearchTree\bin\Debug\04.BinarySearchTree.exe
+D:\Drugi\TELERIK\C#OOP\Domashni\CommonTypeSystem\CommonTypeSystem\04.BinarySearchTree\bin\Debug\04.BinarySearchTree.pdb
+D:\Drugi\TELERIK\C#OOP\Domashni\CommonTypeSystem\CommonTypeSystem\04.BinarySearchTree\obj\Debug\04.BinarySearchTree.csprojResolveAssemblyReference.cache

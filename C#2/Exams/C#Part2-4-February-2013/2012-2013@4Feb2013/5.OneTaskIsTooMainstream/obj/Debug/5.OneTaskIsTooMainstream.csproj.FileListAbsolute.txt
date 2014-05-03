@@ -1,0 +1,6 @@
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@4Feb2013\2012-2013@4Feb2013\5.OneTaskIsTooMainstream\bin\Debug\5.OneTaskIsTooMainstream.exe.config
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@4Feb2013\2012-2013@4Feb2013\5.OneTaskIsTooMainstream\bin\Debug\5.OneTaskIsTooMainstream.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@4Feb2013\2012-2013@4Feb2013\5.OneTaskIsTooMainstream\bin\Debug\5.OneTaskIsTooMainstream.pdb
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@4Feb2013\2012-2013@4Feb2013\5.OneTaskIsTooMainstream\obj\Debug\5.OneTaskIsTooMainstream.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@4Feb2013\2012-2013@4Feb2013\5.OneTaskIsTooMainstream\obj\Debug\5.OneTaskIsTooMainstream.exe
+D:\Drugi\TELERIK\C#2\Kontrolni\C#Part2-2012-2013@4Feb2013\2012-2013@4Feb2013\5.OneTaskIsTooMainstream\obj\Debug\5.OneTaskIsTooMainstream.pdb

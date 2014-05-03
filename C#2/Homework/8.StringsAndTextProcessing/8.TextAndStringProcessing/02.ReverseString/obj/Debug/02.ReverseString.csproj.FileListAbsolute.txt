@@ -1,0 +1,9 @@
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\02.ReverseString\bin\Debug\02.ReverseString.exe.config
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\02.ReverseString\obj\Debug\02.ReverseString.csprojResolveAssemblyReference.cache
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\02.ReverseString\bin\Debug\02.ReverseString.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\02.ReverseString\bin\Debug\02.ReverseString.pdb
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\02.ReverseString\obj\Debug\02.ReverseString.exe
+D:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\02.ReverseString\obj\Debug\02.ReverseString.pdb
+E:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\02.ReverseString\bin\Debug\02.ReverseString.exe.config
+E:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\02.ReverseString\obj\Debug\02.ReverseString.exe
+E:\Drugi\TELERIK\C#2\Domashno\8.StringsAndTextProcessing\8.TextAndStringProcessing\02.ReverseString\obj\Debug\02.ReverseString.pdb

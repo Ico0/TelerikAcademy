@@ -1,0 +1,5 @@
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\3.MinAndMax\bin\Debug\3.MinAndMax.exe.config
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\3.MinAndMax\bin\Debug\3.MinAndMax.exe
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\3.MinAndMax\bin\Debug\3.MinAndMax.pdb
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\3.MinAndMax\obj\Debug\3.MinAndMax.exe
+D:\Drugi\TELERIK\C#1\Domashno\6.Loops\6.Loops\3.MinAndMax\obj\Debug\3.MinAndMax.pdb
